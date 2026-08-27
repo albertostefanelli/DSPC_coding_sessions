@@ -1,0 +1,23 @@
+# ----- R / RStudio -----
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# ----- macOS -----
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+
+# ----- Output -----
+help.out
+rules.md
+
+# ----- Temporary / Office / backups -----
+.~*
+~$*
+*.tmp
+*.wbk
+.backups/
