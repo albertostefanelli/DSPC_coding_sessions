@@ -2,7 +2,7 @@
 
 Coding sessions for **Data Science for Political Campaigns**, Fall 2026. See [Josh Kalla's Github lab repository](https://github.com/joshuakalla/data_science_campaigns_26).
 
-Materials are under development. The notebooks run in Google Colab.
+> Materials are under development. The notebooks run in Google Colab.
 
 ## Fall 2026 schedule and room notes
 
@@ -46,4 +46,4 @@ Ten rounds, with three sessions per round:
 
 ## Using the materials
 
-Use **Open in Colab** to run a notebook in the browser. Use **Download** to save a copy of the notebook. Each notebook loads its required dataset directly from this repository; the material links are also provided for inspection or separate download.
+Use **Open in Colab** to run a notebook in the browser. You need to be logged in and allow popups. Each notebook loads its required dataset directly from this repository. In case you want to use your own IDE, use **Download** to save a copy of the notebook or data.
