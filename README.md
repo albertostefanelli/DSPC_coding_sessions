@@ -1,8 +1,33 @@
 # Data Science for Political Campaigns: Coding Sessions
 
-These coding sessions introduce undergraduate political science students to Python and data science through examples about political campaigns, campaign finance, voter files, experiments, and voter turnout. The notebooks are designed for Google Colab.
+Coding sessions for **Data Science for Political Campaigns**, Fall 2026. See [Josh Kalla's Github lab repository](https://github.com/joshuakalla/data_science_campaigns_26).
 
-> **Please note:** These are teaching materials under active development. Their content, datasets, and organization may change.
+Materials are under development. The notebooks run in Google Colab.
+
+## Fall 2026 schedule and room notes
+
+Ten rounds, with three sessions per round:
+
+- **Session 1:** Tuesday, 5:00–6:00 p.m.
+- **Session 2:** Tuesday, 6:00–7:00 p.m.
+- **Session 3:** Thursday, 5:00–6:00 p.m., except for the Friday, November 6 replacement described below
+
+| | Sessions 1 and 2 / review date | Session 3 | Time and room note |
+|---|---|---|---|
+| 1/10 | Tue, Sep 8 | Thu, Sep 10 | ISPS A001 |
+| 2/10 | Tue, Sep 15 | Thu, Sep 17 | ISPS A001 |
+| 3/10 | Tue, Sep 22 | Thu, Sep 24 | ISPS A001 |
+| 4/10 | Tue, Sep 29 | Thu, Oct 1 | ISPS A001 |
+| Midterm 1 review 1/2 | Mon, Oct 5 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
+| Midterm 1 review 2/2 | Tue, Oct 6 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
+| 5/10 | Tue, Oct 13 | Thu, Oct 15 | Tuesday in ISPS A002; Thursday in ISPS A001 |
+| 6/10 | Tue, Oct 27 | Thu, Oct 29 | ISPS A001 |
+| 7/10 | Tue, Nov 3 | **Fri, Nov 6** | Friday replaces unavailable Thursday, Nov 5; ISPS A001 |
+| 8/10 | Tue, Nov 10 | Thu, Nov 12 | ISPS A001 |
+| 9/10 | Tue, Nov 17 | Thu, Nov 19 | ISPS A001 |
+| 10/10 | Tue, Dec 1 | Thu, Dec 3 | ISPS A001 |
+| Midterm 2 review 1/2 | Mon, Dec 7 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
+| Midterm 2 review 2/2 | Tue, Dec 8 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
 
 ## Coding sessions
 

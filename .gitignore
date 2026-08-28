@@ -15,6 +15,9 @@ Icon?
 help.out
 rules.md
 
+# ----- Local-only project files -----
+/.private/
+
 # ----- Temporary / Office / backups -----
 .~*
 ~$*
