@@ -1,0 +1,3 @@
+tactic,fixed_cost,marginal_cost_per_unit,unit_label,units_at_50k
+mailer,0,0.50,household,100000
+digital_ad,30000,0.05,impression,400000
