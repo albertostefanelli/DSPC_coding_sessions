@@ -29,6 +29,10 @@ Ten rounds, with three sessions per round:
 | Midterm 2 review 1/2 | Mon, Dec 7 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
 | Midterm 2 review 2/2 | Tue, Dec 8 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
 
+## Office hours
+
+Office hours are **Tuesdays, 2:00–4:00 p.m.**, beginning September 8, in ISPS C325 or via Zoom. [Book an office-hours appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ20e9x0FzyDXzx_e3tLYjH-KTwdtnRTYm2EA62mta4jsdh4f3vXQF1OIhd4JaEZx24qWxHxXkfw).
+
 ## Coding sessions
 
 | Session | Minimal description | Notebook | Materials |
