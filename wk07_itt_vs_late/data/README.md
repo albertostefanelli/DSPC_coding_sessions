@@ -1,0 +1,11 @@
+# W7 data sources and analysis population
+
+`gerber_green_new_haven.csv` preserves all 31,098 raw source rows and seven original fields: `id1`, `persngrp`, `cntany`, `vote98`, `mailings`, `phongotv`, `placebo`. No outcome imputation, sampling, or row deletion is applied to the packaged extract.
+
+Gerber, Alan S., and Donald P. Green (2005), *Correction to Gerber and Green (2000), Replication of Disputed Findings, and Reply to Imai (2005)*. [Persistent file identifier](https://hdl.handle.net/10079/q83bkgs); [working Yale storage source](https://isps-yard-aws-s3-bucket.s3.us-east-2.amazonaws.com/published/8bcbc104-5a49-4e86-9134-2a0231b8cf9b/Gerber_Green_APSR_2005_NHrep_individual.csv). Retrieved September 15, 2026. Original SHA-256: `63aebd98321b748c0da59d26823b970e818e67050fb7bfca130a092d94019af4`.
+
+The archive codebook identifies `id1` as the first-person identifier shared by household rows; `cntany` codes all household members contacted when any member was reached. It does not measure each individual's verified exposure. `persngrp` is personal-visit assignment. `vote98` preserves missing turnout as 99; the notebook converts 99 to missing, never zero.
+
+The teaching analysis restricts `mailings == 0`, `phongotv == 0`, and `placebo == 0` (13,976 individuals, 10,533 households). This isolates other intervention assignments, assuming the factorial design supports that restricted contrast; it does not select on achieved contact. There are 593 missing turnout values. Complete-case analysis uses 13,383 individuals, and requires that observed rows represent the relevant joint turnout/contact distribution within assignment groups, beyond randomization. Missing rates are shown by assignment, with worst-case binary-outcome bounds. Intervals aggregate uncertainty at household level; the ratio interval uses the joint ITT/first-stage covariance and a delta approximation. It requires a strong first stage. This is a transparent instructional reanalysis, not the published analytic sample or an exact replication.
+
+`dime_candidates_2020_2024_clean.csv` remains unchanged for optional observational functions/loop practice. Adam Bonica (2024), DIME public version 4.0, [Stanford](https://data.stanford.edu/dime).

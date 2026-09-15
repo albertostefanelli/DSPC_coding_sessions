@@ -1,0 +1,2 @@
+tactic,effect_pp,effect_low_pp,effect_high_pp,cost_per_contact,contact_rate,source
+Door-to-door canvassing,0.8,0.2,1.4,25.0,0.30,"New 2024 field experiment (n=107,000)"

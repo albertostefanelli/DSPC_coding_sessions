@@ -1,0 +1,7 @@
+# W9 data sources
+
+`gotv_tactics.csv` and `new_canvassing_study.csv` are copied unchanged from Joshua Kalla's [W9 course data](https://github.com/joshuakalla/data_science_campaigns_26/tree/c660719416923961732f1414fa960bf92de8baf1/weeks/wk09_cost_effectiveness/data), commit `c660719416923961732f1414fa960bf92de8baf1`. They are instructional cost/effect inputs. Their source labels should not be represented as independently verified study citations.
+
+`effect_pp`, `effect_low_pp`, and `effect_high_pp` use percentage points per attempt; the endpoints represent the case's 95% intervals. `cost_per_contact` is currency per completed contact; `contact_rate` is completed contacts per attempt. Multiplying these gives the assumed cost per attempt. Mail/text rates of 1 represent a priced send, not verified attention. The notebook makes fixed-cost, saturation, independent-evidence, and common-effect assumptions explicit. New-study contact cost differs from the older input.
+
+`kling_stratmann_subset.csv` is the existing course robocall extract and remains unchanged for other notebooks. Kling, Daniel T., and Thomas Stratmann (2023), *Large-Scale Evidence for the Effectiveness of Partisan GOTV Robo Calls*, [doi:10.1017/XPS.2022.16](https://doi.org/10.1017/XPS.2022.16). It supplies no measured contact, intervention costs, or new W9 effect assumptions.

@@ -24,3 +24,12 @@ rules.md
 *.tmp
 *.wbk
 .backups/
+
+# ----- Notebook / Python generated files -----
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# ----- Local review output -----
+/output/
+/test/

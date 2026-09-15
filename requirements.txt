@@ -1,0 +1,9 @@
+# Python packages used by the coding-session notebooks.
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+ipykernel
