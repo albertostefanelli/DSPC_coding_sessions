@@ -7,3 +7,5 @@ scikit-learn
 matplotlib
 seaborn
 ipykernel
+# Week 3 solutions use the same coloured-box formatting helper as the lab.
+mistune>=3,<4

@@ -1,64 +1,68 @@
 # Data Science for Political Campaigns: Coding Sessions
 
-Coding sessions for **Data Science for Political Campaigns**, Fall 2026. See [Josh Kalla's Github lab repository](https://github.com/joshuakalla/data_science_campaigns_26).
+Notebooks, meeting dates, and office hours for **Data Science for Political Campaigns**, Fall 2026. Coding sessions follow the labs and live-coding skills in [Josh Kalla's course repository](https://github.com/joshuakalla/data_science_campaigns_26).
 
-> Materials are under development. The notebooks run in Google Colab.
+> **Wednesday's class is the cutoff for changing lab material.** Thursday starts the next scheduled lab's material; the next scheduled Tuesday covers that same lab before Wednesday's class.
 
-## Fall 2026 schedule and room notes
+[Which week to use](#which-week-to-use) · [Session schedule](#coding-session-schedule) · [Notebooks](#notebooks-by-lab-week) · [Midterm reviews](#midterm-reviews) · [Office hours](#office-hours) · [Getting started](#using-the-notebooks)
 
-Ten rounds, with three sessions per round:
+## Which week to use
 
-- **Session 1:** Tuesday, 5:00–6:00 p.m.
-- **Session 2:** Tuesday, 6:00–7:00 p.m.
-- **Session 3:** Thursday, 5:00–6:00 p.m., except for the Friday, November 6 replacement described below
+Choose the notebook by **lab week**. In the regular sequence, each lab's coding sessions run from Thursday to the next scheduled Tuesday, with Wednesday's class marking the change to the next lab. Both Tuesday time slots cover the same lab.
 
-| | Sessions 1 and 2 / review date | Session 3 | Time and room note |
-|---|---|---|---|
-| 1/10 | Tue, Sep 8 | Thu, Sep 10 | ISPS A001 |
-| 2/10 | Tue, Sep 15 | Thu, Sep 17 | ISPS A001 |
-| 3/10 | Tue, Sep 22 | Thu, Sep 24 | ISPS A001 |
-| 4/10 | Tue, Sep 29 | Thu, Oct 1 | ISPS A001 |
-| Midterm 1 review 1/2 | Mon, Oct 5 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
-| Midterm 1 review 2/2 | Tue, Oct 6 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
-| 5/10 | Tue, Oct 13 | Thu, Oct 15 | Tuesday in ISPS A002; Thursday in ISPS A001 |
-| 6/10 | Tue, Oct 27 | Thu, Oct 29 | ISPS A001 |
-| 7/10 | Tue, Nov 3 | **Fri, Nov 6** | Friday replaces unavailable Thursday, Nov 5; ISPS A001 |
-| 8/10 | Tue, Nov 10 | Thu, Nov 12 | ISPS A001 |
-| 9/10 | Tue, Nov 17 | Thu, Nov 19 | ISPS A001 |
-| 10/10 | Tue, Dec 1 | Thu, Dec 3 | ISPS A001 |
-| Midterm 2 review 1/2 | Mon, Dec 7 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
-| Midterm 2 review 2/2 | Tue, Dec 8 | — | 6:00–7:30 p.m.; 53 Wall Street Auditorium (WALL53 AUD) |
+For example, around the September 16 class:
 
-## Office hours
+| Date | Material |
+|---|---|
+| Tuesday, Sep 15 | Week 02 coding session |
+| Wednesday, Sep 16 | Class and cutoff: Week 02 closes |
+| Thursday, Sep 17 | Week 03 coding session |
+| Tuesday, Sep 22 | Week 03 coding sessions continue |
+| Wednesday, Sep 23 | Class and next cutoff: Week 03 closes |
 
-Office hours are **Tuesdays, 2:00–4:00 p.m.**, beginning September 8, in ISPS C325 or via Zoom. [Book an office-hours appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ20e9x0FzyDXzx_e3tLYjH-KTwdtnRTYm2EA62mta4jsdh4f3vXQF1OIhd4JaEZx24qWxHxXkfw).
+So Thursday and Tuesday belong to the **same lab cycle**, across the weekend. Breaks and review sessions can make the gap longer; use the exact dates below.
 
-## Which lab each coding session covers
+## Coding session schedule
 
-Coding-session materials follow the **matching lab and live-coding skills**. Use the notebook index to open the material for the lab being covered.
+All dates are in **2026**, and all times are **New Haven time (Eastern)**. There are 30 regular coding-session meetings on the dates below: two Tuesday time slots on each of ten Tuesdays, plus ten Thursday/Friday meetings.
 
-**Tuesday coding sessions cover the lab for the following day, Wednesday. Thursday coding sessions cover the following week's lab.** The Friday, November 6 replacement follows the Thursday format and covers the following week's lab. Meeting times and rooms remain as listed above.
-
-Dates below come from the [published lab problem sets](https://github.com/joshuakalla/data_science_campaigns_26/tree/main/weeks), checked September 15, 2026. All listed deadlines are **Wednesday at 4:00 p.m., New Haven time**. Check Canvas for the authoritative deadline and any updates.
-
-| Lab week | Coding and interpretation focus | Problem set due |
+| Meeting | Time | Usual room |
 |---|---|---|
-| W1 | Colab, campaign calculations, and selecting columns | Sep 9 |
-| W2 | Readable Python, line breaks, merges, filtering, grouped summaries, and new columns | Sep 16 |
-| W3 | Experimental comparisons, average treatment effects, and subgroup summaries | Sep 23 |
-| W4 | Message comparisons, randomization-inference loops, and uncertainty when selecting a winner | Sep 30 |
-| W5 | Simulation, power, sample size, and experiment costs | Oct 14 |
-| W7 | Assignment versus exposure, ITT/LATE, and checking an AI-assisted refactor | Oct 28 |
-| W8 | Polls, survey weights, and uncertainty | Nov 4 |
-| W9 | Cost per additional vote, compatible units, and evidence updating | Nov 11 |
-| W10 | Turnout prediction, holdout evaluation, calibration, and checking AI-generated code | Nov 18 |
-| W11 | Forecast assessment, expected value, and decision sensitivity | Dec 2 |
+| Tuesday, session 1 | 5:00–6:00 p.m. | ISPS A001 |
+| Tuesday, session 2 | 6:00–7:00 p.m. | ISPS A001 |
+| Thursday, session 3 | 5:00–6:00 p.m. | ISPS A001 |
 
-**W12 election simulation and allocation** has its own CS12 notebook. The current lab repository has no W12 problem-set deadline; a live coding-session date has not been assigned. The **CS13 research-design notebook is an additional resource**, separate from W10–W12. These content units do not add meetings to the published schedule.
+Each row pairs the meetings that cover the same lab. The Tuesday column includes **both** Tuesday time slots.
 
-## Coding-session notebooks by lab week
+| Lab / notebook | Thursday or replacement meeting | Tuesday meetings | Problem set due (Wednesday) |
+|---|---|---|---|
+| W1 / CS01 | — | Sep 8 | Sep 9 |
+| W2 / CS02 | Sep 10 | Sep 15 | Sep 16 |
+| W3 / CS03 | Sep 17 | Sep 22 | Sep 23 |
+| W4 / CS04 | Sep 24 | Sep 29 | Sep 30 |
+| W5 / CS05 | Oct 1 | **Oct 13 — ISPS A002** | Oct 14 |
+| W7 / CS07 | Oct 15 | Oct 27 | Oct 28 |
+| W8 / CS08 | Oct 29 | Nov 3 | Nov 4 |
+| W9 / CS09 | **Fri, Nov 6** | Nov 10 | Nov 11 |
+| W10 / CS10 | Nov 12 | Nov 17 | Nov 18 |
+| W11 / CS11 | Nov 19 | Dec 1 | Dec 2 |
+| Topic to be confirmed | Dec 3 | — | — |
 
-Week folders sit directly in the repository root and follow the lab names: `wkNN_topic/`. Each notebook is named `wkNN_codingsession.ipynb`, and its session number matches the lab week. There is no W6 lab. **CS13 is an additional research-design resource**, with no corresponding lab or added meeting.
+**Schedule notes**
+
+- Both Tuesday sessions on **October 13** meet in **ISPS A002**. All other regular meetings use ISPS A001.
+- **Friday, November 6, 5:00–6:00 p.m.** replaces Thursday, November 5 and starts the W9 material, continuing on Tuesday, November 10.
+- The opening W1 session is Tuesday, September 8; no earlier Thursday session is scheduled.
+- **Thursday, December 3, 5:00–6:00 p.m.** remains a scheduled meeting in ISPS A001. Its lab coverage is to be confirmed; W12 has not been assigned a live session date.
+- The table lists all regular meeting dates. Midterm reviews are listed separately below.
+
+The problem-set dates come from the [published lab problem sets](https://github.com/joshuakalla/data_science_campaigns_26/tree/main/weeks), checked September 15, 2026. All listed deadlines are **Wednesday at 4:00 p.m.** Check **Canvas** for the authoritative deadline and any updates.
+
+## Notebooks by lab week
+
+Open the notebook matching the lab in the schedule above. **CS02 means the Week 02 coding-session notebook**, and the same numbering applies throughout. Materials are under development and run in Google Colab.
+
+There is **no W6 lab**. W12 has a notebook but no published problem-set deadline or assigned live session date. CS13 is an additional research-design resource, with no corresponding lab or added meeting.
 
 | Lab week | Notebook | Focus | Open or download |
 |---|---|---|---|
@@ -76,8 +80,44 @@ Week folders sit directly in the repository root and follow the lab names: `wkNN
 
 **Additional CS13 — research design and a complete campaign-finance analysis pipeline:** [Open in Colab](https://colab.research.google.com/github/albertostefanelli/DSPC_coding_sessions/blob/master/wk13_research_design/wk13_codingsession.ipynb) · [Download](https://raw.githubusercontent.com/albertostefanelli/DSPC_coding_sessions/refs/heads/master/wk13_research_design/wk13_codingsession.ipynb). CS13 is additional material; it does not indicate a W13 lab or replace W11 or W12.
 
-## Using the materials
+**Week 3 versions:** both include an explained robocall walkthrough and a separate exercise using Pons's French canvassing experiment. The simulation reuses the Week 3 live-coding code, split into short steps.
 
-Use **Open in Colab** to run a notebook in the browser, then save a copy in your Drive. Revised notebooks look for a local data file first and otherwise load the repository’s online copy. Data sources and any teaching-sample restrictions are documented in the notebooks and their data folders.
+- [Student notebook](wk03_rcts_and_ate/wk03_codingsession.ipynb): worked examples followed by exercises with blank answer cells.
+- [Solutions notebook](wk03_rcts_and_ate/wk03_codingsession_solutions.ipynb): the same walkthrough and questions, with exercise answers in the lab's coloured-box format. [Open solutions in Colab](https://colab.research.google.com/github/albertostefanelli/DSPC_coding_sessions/blob/master/wk03_rcts_and_ate/wk03_codingsession_solutions.ipynb).
 
-For local work, clone or download the full repository so shared datasets are available. Install the Python packages with `python -m pip install -r requirements.txt`, then open the matching notebook in Jupyter or your IDE. Restart the kernel and run cells in order. The practice sections invite you to change or write code; they are separate from the lab submissions on Canvas.
+## Midterm reviews
+
+All reviews meet **6:00–7:30 p.m.** in **53 Wall Street Auditorium (WALL53 AUD)**.
+
+| Review | Date |
+|---|---|
+| Midterm 1, review 1 of 2 | Monday, Oct 5 |
+| Midterm 1, review 2 of 2 | Tuesday, Oct 6 |
+| Midterm 2, review 1 of 2 | Monday, Dec 7 |
+| Midterm 2, review 2 of 2 | Tuesday, Dec 8 |
+
+## Office hours
+
+Office hours are **Tuesdays, 2:00–4:00 p.m.**, beginning September 8, in **ISPS C325** or via **Zoom**.
+
+[Book an office-hours appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ20e9x0FzyDXzx_e3tLYjH-KTwdtnRTYm2EA62mta4jsdh4f3vXQF1OIhd4JaEZx24qWxHxXkfw).
+
+## Using the notebooks
+
+### In Google Colab
+
+1. Select **Open in Colab** for the lab week you are covering.
+2. Save a copy in your Google Drive so you can keep your edits.
+3. Run cells in order, then use the practice sections to change or write code.
+
+Most revised notebooks look for a local data file first and otherwise load the repository's online copy. Week 3 loads the robocall CSV online and includes a documented Pons (2018) teaching CSV in `wk03_rcts_and_ate/data`. For its second section in Colab, upload that CSV into a runtime folder named `data`, as explained in the notebook. Data sources and any teaching-sample restrictions are documented in the notebooks and their data folders. Coding-session practice is separate from the lab submissions on Canvas.
+
+### On your computer
+
+Clone or download the full repository so the datasets are available, then install the Python packages:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Open the matching notebook in Jupyter or your IDE, restart the kernel, and run cells in order. Week folders sit directly in the repository root as `wkNN_topic/`, and notebooks are named `wkNN_codingsession.ipynb`.
