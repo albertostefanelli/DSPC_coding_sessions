@@ -1,6 +1,6 @@
 # Week 4 datasets
 
-Both datasets used here are unchanged copies of those used in Coding Session 03.
+This folder contains unchanged copies of the two datasets used by Week 4.
 
 ## Robocall experiment
 
@@ -57,8 +57,8 @@ SHA-256: `ce400ea2345f1b9b70fbd5ed126c61ac0da67adac4a17a153110642efb3a9be5`.
 
 ## Pons (2018): French presidential campaign teaching extract
 
-`pons_2018_teaching.csv` is an unchanged copy of the Coding Session 03 exercise
-dataset. Week 4 uses it for subgroup comparisons.
+`pons_2018_teaching.csv` is the existing course teaching extract. Week 4 uses
+it to compare assignment-effect estimates across randomization settings.
 It contains actual experimental data, with shortened variable names, from:
 
 Pons, Vincent. 2018. “Will a Five-Minute Discussion Change Your Mind? A Countrywide
@@ -119,8 +119,7 @@ for assignment and allocation. Classroom results need not equal the headline
 estimates in the paper. Any further randomization inference must preserve
 assignment within blocks, conditional on the areas and treatment counts retained
 in the extract, including blocks with incomplete election-result coverage.
-Week 4 calculates descriptive subgroup contrasts and does not repeat the
-Week 3 permutation exercise.
+Week 4 calculates descriptive contrasts across randomization settings.
 
 
 ## Version and preparation check: September 24, 2026
@@ -130,44 +129,52 @@ currently lists V1, published October 12, 2019, as its only published version.
 No newer release or correction is listed there. The journal's replication link
 points to that archive. The source data were not replaced.
 
-Coding Session 03's preparation notes record a September 17, 2026 download of
+The preparation notes record a September 17, 2026 download of
 the [journal-hosted replication ZIP](https://www.aeaweb.org/content/file?id=7262).
 The input was `AER-2016-0524.R2_PUBLISH/Data/Analysis/analysis.dta`, with SHA-256
 `83c1641bab30bd501b69219278dc349bde1e39b3f779ea100ccc2b757bd49fe6`.
 The filtering and variable transformations are documented in the tables above
-and implemented in [Week 3's preparation script](../../wk03_rcts_and_ate/data/prepare_pons_data.py).
+and retain the original source variable names for reproducibility.
 The historical download checksum is recorded provenance, not a fresh comparison
-of that source file with the archive. This revision copies the prepared Week 3
-CSV byte for byte, without re-extracting, sampling, filtering, or recoding it.
+of that source file with the archive. The prepared CSV is retained unchanged, without re-extracting, sampling,
+filtering, or recoding it.
 
 Week 4 CSV SHA-256:
 `d9902caab0eb255c9e0cf57e2f40da05f08abf0e5c02c99eff2dad97ae07c921`.
 
 The exercise compares `hollande_share` across treatment and control separately
 within Municipality (1,350 treated, 334 control) and Precinct (1,373 treated,
-340 control). It retains all 3,397 areas. The municipality-minus-precinct effect
-difference is descriptive; the notebooks do not claim a significant interaction
-or interpret area type itself as randomized. Considering both available outcomes
+340 control). It retains all 3,397 areas. The contrast between the two assignment-effect estimates is descriptive.
+Randomization occurred at precinct level where boundaries were known and
+at municipality level elsewhere ([study, p. 1335](https://dash.harvard.edu/bitstreams/0e0877b6-35cd-4d95-94e0-2c3178629eeb/download)).
+This compares design settings; it does not identify the causal effect of
+choosing one randomization level or establish where canvassing works better.
+The notebooks do not claim a significant interaction. Considering both available outcomes
 in both area types would create four within-subgroup comparisons.
 
 ## File locations and loading
 
 The two datasets used by the notebooks are:
 
-- `data/kling_stratmann_subset.csv`, identical to Coding Session 03's copy.
-- `data/pons_2018_teaching.csv`, identical to Coding Session 03's copy.
+- `data/kling_stratmann_subset.csv`, the existing robocall extract.
+- `data/pons_2018_teaching.csv`, the existing canvassing extract.
 
 Each week keeps its own copy. The existing `nyvoterfile_2021.csv` is retained as
 a legacy file and is not loaded by either revised notebook.
 
-Both loading cells use one direct `pd.read_csv('data/<filename>')` call, followed
-by `.head()` and `.shape()` for inspection, as in the lab's setup. Open the
-notebook from the Week 4 folder. From the repository root, prefix either path
-with `wk04_message_testing/`.
+Both loading cells use one direct `pd.read_csv()` call with the raw CSV URL
+in the course repository, followed by `.head()` and `.shape()` for inspection:
 
-In Colab, create a runtime folder named `data` and upload both supplied CSVs
-before running the loading cells. The same calls then read those uploaded
-files. Both local paths were executed; live Colab execution was not tested.
+- [Robocall CSV](https://raw.githubusercontent.com/albertostefanelli/DSPC_coding_sessions/master/wk04_message_testing/data/kling_stratmann_subset.csv).
+- [Pons CSV](https://raw.githubusercontent.com/albertostefanelli/DSPC_coding_sessions/master/wk04_message_testing/data/pons_2018_teaching.csv).
+
+These URLs work in Colab and local Jupyter with internet access, without file
+uploads. Both links were downloaded on September 29, 2026 and matched the
+local CSVs byte for byte. Both notebooks were rerun using these URLs from an
+empty working folder; live Colab execution was not tested.
+
+For offline use from the Week 4 folder, replace each URL with its `data/...`
+path. From the repository root, prefix that path with `wk04_message_testing/`.
 There are no file-search loops, existence checks, path fallbacks, or automatic
 download helpers in either notebook.
 
@@ -197,5 +204,4 @@ area vote shares and blocked assignment. Their numerical cutoffs and error rates
 are not applied to the real-data estimates.
 
 Instructional and exercise code uses only functions and methods found in the
-Week 4 lab or live coding. The coloured-box helper matches the existing lab and
-Coding Session 03 presentation code.
+Week 4 lab or live coding. The coloured-box helper matches the existing lab presentation code.
