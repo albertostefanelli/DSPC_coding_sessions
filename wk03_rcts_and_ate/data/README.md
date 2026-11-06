@@ -7,7 +7,7 @@ Both datasets used by the Week 3 notebooks are stored in this folder.
 `kling_stratmann_subset.csv` contains 539,567 voter records and eight columns.
 It is an unchanged copy of the existing course extract of the 2014 robocall
 experiment. Weeks 4 and 10 have their own copies in their respective `data`
-folders; the original Week 9 copy is retained.
+folders.
 
 The Week 3 notebooks load the [Week 3 CSV](https://raw.githubusercontent.com/albertostefanelli/DSPC_coding_sessions/master/wk03_rcts_and_ate/data/kling_stratmann_subset.csv).
 Source: Kling, Daniel T., and Thomas Stratmann (2023),
