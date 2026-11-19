@@ -1,4 +1,4 @@
-"""Build three original, hypothetical Week 10 concept figure previews.
+"""Build two original, hypothetical Week 10 concept figure previews.
 
 These figures are separate from the notebooks until the instructor approves them.
 Run from the repository root with:
@@ -72,80 +72,6 @@ def save_preview(fig, filename):
     fig.savefig(destination, dpi=200, bbox_inches="tight", pad_inches=0.2)
     plt.close(fig)
     print(destination)
-
-
-def figure_score():
-    """Add the fitted-model pieces for one fictional voter, in points."""
-    # The hypothetical formula is:
-    # score = .20 + .15*voted_2018 + .25*voted_2020
-    #              + .20*voted_2022 + .001*age
-    # This fictional voter is age 40, with vote-history values 0, 1, and 1.
-    contributions = np.array([20.0, 0.0, 25.0, 20.0, 4.0])
-    cumulative = contributions.cumsum()
-    assert np.isclose(cumulative[-1], 69.0)
-
-    fig = plt.figure(figsize=(12.4, 7.3))
-    heading(
-        fig,
-        "A turnout score adds up the model's pieces",
-        "Hypothetical linear probability model | One fictional voter, age 40",
-    )
-    fig.text(0.055, 0.825,
-             "Additions are in percentage points; the total is a probability.",
-             fontsize=11.5, color=GRAY)
-    ax = fig.add_axes([0.09, 0.31, 0.85, 0.45])
-    for x, value in enumerate(contributions):
-        bottom = 0 if x == 0 else cumulative[x - 1]
-        color = BLUE if x < 4 else GOLD
-        if value:
-            ax.bar(x, value, bottom=bottom, width=0.66, color=color, zorder=3)
-            ax.text(
-                x, bottom + value / 2,
-                f"{'+' if x else ''}{value:.0f}",
-                ha="center", va="center", color=WHITE, fontweight="bold",
-                fontsize=14 if value > 4 else 11,
-            )
-        else:
-            ax.plot([x - 0.33, x + 0.33], [bottom, bottom], color=BLUE, lw=3)
-            ax.text(x, bottom + 3.5, "+0", ha="center", fontsize=14,
-                    fontweight="bold", color=BLUE)
-        # The dashed connectors show the running total from one piece to the next.
-        if x < len(contributions) - 1:
-            ax.plot([x + 0.33, x + 0.67], [cumulative[x]] * 2,
-                    color=GRAY, ls="--", lw=1.1, zorder=2)
-    ax.bar(5.3, 69, width=0.76, color=NAVY, zorder=3)
-    ax.text(5.3, 35, "69%", ha="center", va="center", fontsize=22,
-            color=WHITE, fontweight="bold")
-    ax.set_xticks([0, 1, 2, 3, 4, 5.3])
-    ax.set_xticklabels([
-        "Starting\npoint", "2018 vote\nNo = 0", "2020 vote\nYes = 1",
-        "2022 vote\nYes = 1", "Age\n40 years", "Final\nscore",
-    ], fontsize=11.5)
-    ax.tick_params(axis="x", length=0, pad=10)
-    ax.set_ylim(0, 80)
-    ax.set_xlim(-0.65, 5.95)
-    ax.set_yticks([0, 20, 40, 60, 80])
-    ax.yaxis.set_major_formatter(PercentFormatter(100))
-    ax.set_ylabel("Running turnout score", labelpad=10)
-    ax.grid(axis="y", color=LINE, lw=0.7, zorder=0)
-    ax.spines["left"].set_visible(False)
-    ax.spines["bottom"].set_visible(False)
-    ax.tick_params(axis="y", length=0)
-
-    # Put the complete arithmetic below the plot, separate from the bar labels.
-    fig.text(
-        0.52, 0.175,
-        "0.20 + (0.15 × 0) + (0.25 × 1) + (0.20 × 1) + (0.001 × 40) = 0.69",
-        ha="center", fontsize=13.2, fontweight="bold",
-        bbox={"boxstyle": "round,pad=0.75", "facecolor": BLUE_LIGHT,
-              "edgecolor": "none"},
-    )
-    fig.text(0.52, 0.09, "The model predicts a 69% chance that this voter votes.",
-             ha="center", fontsize=13.2, color=NAVY)
-    fig.text(0.52, 0.035,
-             "Invented coefficients and voter. This score does not estimate the effect of contacting the voter.",
-             ha="center", fontsize=10.5, color=GRAY)
-    save_preview(fig, "fig1_additive_turnout_score.png")
 
 
 def confusion_panel(fig, rect, title, counts):
@@ -295,6 +221,5 @@ def figure_calibration():
 
 
 if __name__ == "__main__":
-    figure_score()
     figure_mistakes()
     figure_calibration()

@@ -1,0 +1,1374 @@
+year,office,state,district,special,candidate,dem_prob,dem_won
+2018,House,AK,1,False,Alyse S. Galvin,0.3475,0
+2018,House,AL,1,False,Robert Kennedy,0.00044,0
+2018,House,AL,2,False,Tabitha Isner,0.02254,0
+2018,House,AL,3,False,Mallory Hagan,0.0018,0
+2018,House,AL,4,False,Lee Auman,0.0,0
+2018,House,AL,5,False,Peter Joffrion,0.00106,0
+2018,House,AL,6,False,Danner Kline,8e-05,0
+2018,House,AR,1,False,Chintan Desai,0.0004,0
+2018,House,AR,2,False,Clarke Tucker,0.13928,0
+2018,House,AR,3,False,Josh Mahony,0.00066,0
+2018,House,AR,4,False,Hayden Shamel,0.0003,0
+2018,House,AZ,1,False,Tom O'Halleran,0.89224,1
+2018,House,AZ,2,False,Ann Kirkpatrick,0.96738,1
+2018,House,AZ,3,False,Raul Grijalva,0.99992,1
+2018,House,AZ,4,False,David Brill,0.00028,0
+2018,House,AZ,5,False,Joan Greene,0.00086,0
+2018,House,AZ,6,False,Anita Malik,0.09216,0
+2018,House,AZ,7,False,Ruben Gallego,0.99992,1
+2018,House,AZ,8,False,Hiral Tipirneni,0.22824,0
+2018,House,AZ,9,False,Greg Stanton,0.99572,1
+2018,House,CA,1,False,Audrey Denney,0.21362,0
+2018,House,CA,2,False,Jared Huffman,1.0,1
+2018,House,CA,3,False,John Garamendi,0.99966,1
+2018,House,CA,4,False,Jessica Morse,0.15448,0
+2018,House,CA,5,False,Mike Thompson,0.99978,1
+2018,House,CA,7,False,Ami Bera,0.99502,1
+2018,House,CA,9,False,Jerry McNerney,0.99944,1
+2018,House,CA,10,False,Josh Harder,0.7748,1
+2018,House,CA,11,False,Mark DeSaulnier,1.0,1
+2018,House,CA,12,False,Nancy Pelosi,1.0,1
+2018,House,CA,13,False,Barbara Lee,0.99996,1
+2018,House,CA,14,False,Jackie Speier,1.0,1
+2018,House,CA,15,False,Eric Swalwell,1.0,1
+2018,House,CA,16,False,Jim Costa,0.98182,1
+2018,House,CA,17,False,Ro Khanna,1.0,1
+2018,House,CA,18,False,Anna G. Eshoo,1.0,1
+2018,House,CA,19,False,Zoe Lofgren,1.0,1
+2018,House,CA,20,False,Jimmy Panetta,0.9998,1
+2018,House,CA,21,False,TJ Cox,0.2102,1
+2018,House,CA,22,False,Andrew Janz,0.04596,0
+2018,House,CA,23,False,Tatiana Matta,0.00064,0
+2018,House,CA,24,False,Salud Carbajal,0.98526,1
+2018,House,CA,25,False,Katie Hill,0.63662,1
+2018,House,CA,26,False,Julia Brownley,0.99986,1
+2018,House,CA,28,False,Adam B. Schiff,1.0,1
+2018,House,CA,29,False,Tony Cardenas,1.0,1
+2018,House,CA,30,False,Brad Sherman,1.0,1
+2018,House,CA,31,False,Pete Aguilar,0.99886,1
+2018,House,CA,32,False,Grace F. Napolitano,1.0,1
+2018,House,CA,33,False,Ted Lieu,1.0,1
+2018,House,CA,34,False,Jimmy Gomez,0.99974,1
+2018,House,CA,35,False,Norma J. Torres,0.99996,1
+2018,House,CA,36,False,Raul Ruiz,0.9981,1
+2018,House,CA,37,False,Karen Bass,1.0,1
+2018,House,CA,38,False,Linda T. Sanchez,0.99998,1
+2018,House,CA,39,False,Gilbert Cisneros,0.5823,1
+2018,House,CA,40,False,Lucille Roybal-Allard,0.9996,1
+2018,House,CA,41,False,Mark Takano,0.99986,1
+2018,House,CA,42,False,Julia Peacock,0.02314,0
+2018,House,CA,43,False,Maxine Waters,1.0,1
+2018,House,CA,45,False,Katie Porter,0.632,1
+2018,House,CA,46,False,J. Luis Correa,1.0,1
+2018,House,CA,47,False,Alan Lowenthal,0.9999,1
+2018,House,CA,48,False,Harley Rouda,0.56574,1
+2018,House,CA,49,False,Mike Levin,0.96,1
+2018,House,CA,50,False,Ammar Campa-Najjar,0.22188,0
+2018,House,CA,51,False,Juan C. Vargas,1.0,1
+2018,House,CA,52,False,Scott Peters,0.9995,1
+2018,House,CA,53,False,Susan A. Davis,0.99994,1
+2018,House,CO,1,False,Diana DeGette,1.0,1
+2018,House,CO,2,False,Joe Neguse,0.99948,1
+2018,House,CO,3,False,Diane Mitsch Bush,0.19786,0
+2018,House,CO,4,False,Karen McCormick,0.04164,0
+2018,House,CO,5,False,Stephany Spaulding,0.02216,0
+2018,House,CO,6,False,Jason Crow,0.88754,1
+2018,House,CO,7,False,Ed Perlmutter,0.99934,1
+2018,House,CT,1,False,John Larson,0.9999,1
+2018,House,CT,2,False,Joe Courtney,0.99976,1
+2018,House,CT,3,False,Rosa DeLauro,0.99992,1
+2018,House,CT,4,False,Jim Himes,0.99982,1
+2018,House,CT,5,False,Jahana Hayes,0.97482,1
+2018,House,DE,1,False,Lisa Blunt Rochester,0.99776,1
+2018,House,FL,1,False,Jennifer Zimmerman,2e-05,0
+2018,House,FL,2,False,Bob Rackleff,0.00022,0
+2018,House,FL,3,False,Yvonne Hayes Hinson,0.0131,0
+2018,House,FL,4,False,Ges Selmont,8e-05,0
+2018,House,FL,5,False,Al Lawson,0.99998,1
+2018,House,FL,6,False,Nancy Soderberg,0.26654,0
+2018,House,FL,7,False,Stephanie Murphy,0.94852,1
+2018,House,FL,8,False,Sanjay Patel,0.00748,0
+2018,House,FL,9,False,Darren Soto,0.98532,1
+2018,House,FL,11,False,Dana Cottrell,0.00038,0
+2018,House,FL,12,False,Chris Hunter,0.0047,0
+2018,House,FL,13,False,Charlie Crist,0.9985,1
+2018,House,FL,15,False,Kristen Carlson,0.42084,0
+2018,House,FL,16,False,David Shapiro,0.1414,0
+2018,House,FL,17,False,April Freeman,0.00132,0
+2018,House,FL,18,False,Lauren Baer,0.0867,0
+2018,House,FL,19,False,David Holden,0.00908,0
+2018,House,FL,22,False,Ted Deutch,0.99962,1
+2018,House,FL,23,False,Debbie Wasserman Schultz,0.99974,1
+2018,House,FL,25,False,Mary Barzee Flores,0.27828,0
+2018,House,FL,26,False,Debbie Mucarsel-Powell,0.5585,1
+2018,House,FL,27,False,Donna Shalala,0.84824,1
+2018,House,GA,1,False,Lisa Ring,0.00144,0
+2018,House,GA,2,False,Sanford D. Bishop Jr.,0.99986,1
+2018,House,GA,3,False,Chuck Enderlin,8e-05,0
+2018,House,GA,4,False,Hank Johnson,0.99998,1
+2018,House,GA,6,False,Lucy McBath,0.49142,1
+2018,House,GA,7,False,Carolyn Bourdeaux,0.16352,0
+2018,House,GA,9,False,Josh McCall,0.0,0
+2018,House,GA,10,False,Tabitha Johnson-Green,4e-05,0
+2018,House,GA,11,False,Flynn Broady,0.00016,0
+2018,House,GA,12,False,Francys Johnson,0.01248,0
+2018,House,GA,13,False,David Scott,0.99998,1
+2018,House,GA,14,False,Steven Foster,0.0,0
+2018,House,HI,1,False,Ed Case,0.99996,1
+2018,House,HI,2,False,Tulsi Gabbard,1.0,1
+2018,House,IA,1,False,Abby Finkenauer,0.95526,1
+2018,House,IA,2,False,Dave Loebsack,0.9881,1
+2018,House,IA,3,False,Cindy Axne,0.70248,1
+2018,House,IA,4,False,J.D. Scholten,0.14334,0
+2018,House,ID,1,False,Cristina McNeil,0.00596,0
+2018,House,ID,2,False,Aaron Swisher,0.00068,0
+2018,House,IL,1,False,Bobby Rush,1.0,1
+2018,House,IL,2,False,Robin Kelly,1.0,1
+2018,House,IL,3,False,Daniel Lipinski,0.99994,1
+2018,House,IL,4,False,Jesus G. Garcia,1.0,1
+2018,House,IL,5,False,Mike Quigley,1.0,1
+2018,House,IL,6,False,Sean Casten,0.48602,1
+2018,House,IL,7,False,Danny K. Davis,1.0,1
+2018,House,IL,8,False,Raja Krishnamoorthi,0.99988,1
+2018,House,IL,9,False,Jan Schakowsky,0.99998,1
+2018,House,IL,10,False,Brad Schneider,0.99982,1
+2018,House,IL,11,False,Bill Foster,0.99988,1
+2018,House,IL,12,False,Brendan F. Kelly,0.28218,0
+2018,House,IL,13,False,Betsy Dirksen Londrigan,0.28378,0
+2018,House,IL,14,False,Lauren A. Underwood,0.69436,1
+2018,House,IL,15,False,Kevin Gaither,8e-05,0
+2018,House,IL,16,False,Sara Dady,0.00908,0
+2018,House,IL,17,False,Cheri Bustos,0.9998,1
+2018,House,IL,18,False,Junius Rodriguez,0.00012,0
+2018,House,IN,1,False,Peter J. Visclosky,0.99998,1
+2018,House,IN,2,False,Mel Hall,0.03924,0
+2018,House,IN,3,False,Courtney Tritch,0.0024,0
+2018,House,IN,4,False,Tobi Beck,0.00134,0
+2018,House,IN,5,False,Dee Thornton,0.03616,0
+2018,House,IN,6,False,Jeannine Lake,0.00046,0
+2018,House,IN,7,False,AndrÃ© Carson,1.0,1
+2018,House,IN,8,False,William Tanoos,0.00324,0
+2018,House,IN,9,False,Liz Watson,0.16684,0
+2018,House,KS,1,False,Alan LaPolice,0.00126,0
+2018,House,KS,2,False,Paul Davis,0.61754,0
+2018,House,KS,3,False,Sharice Davids,0.84994,1
+2018,House,KS,4,False,James Thompson,0.00648,0
+2018,House,KY,1,False,Paul Walker,4e-05,0
+2018,House,KY,2,False,Hank Linderman,0.00066,0
+2018,House,KY,3,False,John Yarmuth,0.99876,1
+2018,House,KY,4,False,Seth Hall,0.00046,0
+2018,House,KY,5,False,Kenneth Stepp,0.0,0
+2018,House,KY,6,False,Amy McGrath,0.45744,0
+2018,House,LA,4,False,Ryan Trundle,0.00058,0
+2018,House,LA,5,False,Jessee Carlton Fleenor,0.00022,0
+2018,House,MA,2,False,Jim McGovern,1.0,1
+2018,House,MA,3,False,Lori Trahan,0.99956,1
+2018,House,MA,5,False,Katherine Clark,1.0,1
+2018,House,MA,6,False,Seth Moulton,0.99994,1
+2018,House,MA,9,False,Bill Keating,0.99738,1
+2018,House,MD,1,False,Jesse Colvin,0.0091,0
+2018,House,MD,2,False,Dutch Ruppersberger,0.99994,1
+2018,House,MD,3,False,John Sarbanes,0.99996,1
+2018,House,MD,4,False,Anthony Brown,1.0,1
+2018,House,MD,5,False,Steny Hoyer,0.99998,1
+2018,House,MD,6,False,David Trone,0.9942,1
+2018,House,MD,7,False,Elijah Cummings,1.0,1
+2018,House,MD,8,False,Jamie Raskin,1.0,1
+2018,House,ME,1,False,Chellie Pingree,0.99944,1
+2018,House,ME,2,False,Jared Golden,0.63422,1
+2018,House,MI,1,False,Matt Morgan,0.0753,0
+2018,House,MI,2,False,Rob Davidson,0.06166,0
+2018,House,MI,3,False,Cathy Albro,0.0192,0
+2018,House,MI,4,False,Jerry Hilliard,0.00172,0
+2018,House,MI,5,False,Dan Kildee,0.99976,1
+2018,House,MI,6,False,Matt Longjohn,0.22482,0
+2018,House,MI,7,False,Gretchen Driskell,0.41494,0
+2018,House,MI,8,False,Elissa Slotkin,0.66898,1
+2018,House,MI,9,False,Andy Levin,0.99644,1
+2018,House,MI,10,False,Kimberly Bizon,0.00106,0
+2018,House,MI,11,False,Haley Stevens,0.7923,1
+2018,House,MI,12,False,Debbie Dingell,1.0,1
+2018,House,MI,14,False,Brenda Lawrence,1.0,1
+2018,House,MN,1,False,Dan Feehan,0.55832,0
+2018,House,MN,2,False,Angie Craig,0.86404,1
+2018,House,MN,3,False,Dean Phillips,0.84922,1
+2018,House,MN,4,False,Betty McCollum,0.99996,1
+2018,House,MN,5,False,Ilhan Omar,1.0,1
+2018,House,MN,6,False,Ian Todd,0.00104,0
+2018,House,MN,7,False,Collin Peterson,0.93394,1
+2018,House,MN,8,False,Joe Radinovich,0.19322,0
+2018,House,MO,1,False,William Lacy Clay,1.0,1
+2018,House,MO,2,False,Cort VanOstran,0.16238,0
+2018,House,MO,3,False,Katy Geppert,2e-05,0
+2018,House,MO,4,False,Renee Hoagenson,0.00046,0
+2018,House,MO,5,False,Emanuel Cleaver,0.99928,1
+2018,House,MO,6,False,Henry Martin,0.00024,0
+2018,House,MO,7,False,Jamie Schoolcraft,2e-05,0
+2018,House,MO,8,False,Kathy Ellis,4e-05,0
+2018,House,MS,1,False,Randy Wadkins,0.0006,0
+2018,House,MS,2,False,Bennie Thompson,1.0,1
+2018,House,MS,3,False,Michael Evans,0.0036,0
+2018,House,MS,4,False,Jeramey Anderson,0.00486,0
+2018,House,MT,1,False,Kathleen Williams,0.24448,0
+2018,House,NC,1,False,G.K. Butterfield,1.0,1
+2018,House,NC,2,False,Linda Coleman,0.15254,0
+2018,House,NC,4,False,David E. Price,0.99998,1
+2018,House,NC,5,False,DD Adams,0.03822,0
+2018,House,NC,6,False,Ryan Watts,0.1341,0
+2018,House,NC,7,False,Kyle Horton,0.18684,0
+2018,House,NC,8,False,Frank McNeill,0.12352,0
+2018,House,NC,10,False,David Brown,0.00202,0
+2018,House,NC,11,False,Phillip Price,0.00284,0
+2018,House,NC,12,False,Alma Adams,1.0,1
+2018,House,NC,13,False,Kathy Ellen Manning,0.38688,0
+2018,House,ND,1,False,Mac Schneider,0.00154,0
+2018,House,NE,1,False,Jessica McClure,0.0025,0
+2018,House,NE,2,False,Kara Eastman,0.41944,0
+2018,House,NE,3,False,Paul Theobald,4e-05,0
+2018,House,NH,1,False,Chris Pappas,0.89206,1
+2018,House,NH,2,False,Annie Kuster,0.99634,1
+2018,House,NJ,1,False,Donald Norcross,0.99996,1
+2018,House,NJ,2,False,Jeff Van Drew,0.97994,1
+2018,House,NJ,3,False,Andy Kim,0.54854,1
+2018,House,NJ,4,False,Joshua Welle,0.06924,0
+2018,House,NJ,5,False,Josh Gottheimer,0.98564,1
+2018,House,NJ,6,False,Frank Pallone Jr.,0.9999,1
+2018,House,NJ,7,False,Tom Malinowski,0.78252,1
+2018,House,NJ,8,False,Albio Sires,1.0,1
+2018,House,NJ,9,False,Bill Pascrell Jr.,0.99996,1
+2018,House,NJ,10,False,Donald M. Payne Jr.,1.0,1
+2018,House,NJ,11,False,Mikie Sherrill,0.85364,1
+2018,House,NJ,12,False,Bonnie Watson Coleman,1.0,1
+2018,House,NM,1,False,Debra A. Haaland,0.98004,1
+2018,House,NM,2,False,Xochitl Torres Small,0.44414,1
+2018,House,NM,3,False,Ben Ray LujÃ¡n,0.99958,1
+2018,House,NV,1,False,Dina Titus,1.0,1
+2018,House,NV,2,False,Clint Koble,0.00242,0
+2018,House,NV,3,False,Susie Lee,0.88396,1
+2018,House,NV,4,False,Steven Horsford,0.87716,1
+2018,House,NY,1,False,Perry Gershon,0.06546,0
+2018,House,NY,2,False,Liuba Shirley,0.27732,0
+2018,House,NY,3,False,Thomas Suozzi,0.99636,1
+2018,House,NY,4,False,Kathleen Rice,0.9995,1
+2018,House,NY,6,False,Grace Meng,0.99996,1
+2018,House,NY,9,False,Yvette Clarke,1.0,1
+2018,House,NY,10,False,Jerrold Nadler,1.0,1
+2018,House,NY,11,False,Max Rose,0.23654,1
+2018,House,NY,12,False,Carolyn Maloney,1.0,1
+2018,House,NY,13,False,Adriano Espaillat,1.0,1
+2018,House,NY,14,False,Alexandria Ocasio-Cortez,1.0,1
+2018,House,NY,15,False,Jose E. Serrano,1.0,1
+2018,House,NY,17,False,Nita Lowey,0.9999,1
+2018,House,NY,18,False,Sean Patrick Maloney,0.99148,1
+2018,House,NY,19,False,Antonio Delgado,0.61166,1
+2018,House,NY,20,False,Paul Tonko,0.9999,1
+2018,House,NY,21,False,Tedra Cobb,0.10676,0
+2018,House,NY,22,False,Anthony J. Brindisi,0.5223,1
+2018,House,NY,23,False,Tracy Mitrano,0.16708,0
+2018,House,NY,24,False,Dana Balter,0.17966,0
+2018,House,NY,25,False,Joseph Morelle,0.99044,1
+2018,House,NY,26,False,Brian Higgins,0.99996,1
+2018,House,NY,27,False,Nate McMurray,0.24324,0
+2018,House,OH,1,False,Aftab Pureval,0.19038,0
+2018,House,OH,2,False,Jill Schiller,0.0227,0
+2018,House,OH,3,False,Joyce Beatty,1.0,1
+2018,House,OH,4,False,Janet Garrett,0.00998,0
+2018,House,OH,5,False,Michael Galbraith,0.00144,0
+2018,House,OH,6,False,Shawna Roberts,0.00014,0
+2018,House,OH,7,False,Ken Harbaugh,0.0379,0
+2018,House,OH,8,False,Vanessa Enoch,0.00016,0
+2018,House,OH,9,False,Marcy Kaptur,0.99996,1
+2018,House,OH,10,False,Theresa Gasper,0.10338,0
+2018,House,OH,11,False,Marcia L. Fudge,1.0,1
+2018,House,OH,12,False,Danny O'Connor,0.34704,0
+2018,House,OH,13,False,Tim Ryan,0.99988,1
+2018,House,OH,14,False,Betsy Rader,0.15626,0
+2018,House,OH,15,False,Rick Neal,0.02068,0
+2018,House,OH,16,False,Susan Moran Palmer,0.08518,0
+2018,House,OK,1,False,Tim Gilpin,0.0017,0
+2018,House,OK,2,False,Jason Nichols,0.00178,0
+2018,House,OK,3,False,Frankie Robbins,2e-05,0
+2018,House,OK,4,False,Mary Brannon,0.0001,0
+2018,House,OK,5,False,Kendra Horn,0.14256,1
+2018,House,OR,1,False,Suzanne Bonamici,0.99986,1
+2018,House,OR,2,False,Jamie McLeod-Skinner,0.01,0
+2018,House,OR,3,False,Earl Blumenauer,1.0,1
+2018,House,OR,4,False,Peter A. DeFazio,0.99574,1
+2018,House,OR,5,False,Kurt Schrader,0.85588,1
+2018,House,PA,1,False,Scott Wallace,0.42814,0
+2018,House,PA,2,False,Brendan F. Boyle,1.0,1
+2018,House,PA,3,False,Dwight Evans,1.0,1
+2018,House,PA,4,False,Madeleine Dean,0.99922,1
+2018,House,PA,5,False,Mary Gay Scanlon,1.0,1
+2018,House,PA,6,False,Chrissy Houlahan,0.9909,1
+2018,House,PA,7,False,Susan Ellis Wild,0.95184,1
+2018,House,PA,8,False,Matt Cartwright,0.96288,1
+2018,House,PA,9,False,Denny Wolff,0.00172,0
+2018,House,PA,10,False,George B. Scott,0.32496,0
+2018,House,PA,11,False,Jess King,0.0654,0
+2018,House,PA,12,False,Marc Friedenberg,0.0002,0
+2018,House,PA,13,False,Brent Ottaway,0.00026,0
+2018,House,PA,14,False,Bibiana Boerio,0.00708,0
+2018,House,PA,15,False,Susan Boser,0.0,0
+2018,House,PA,16,False,Ronald A. DiNicola,0.12748,0
+2018,House,PA,17,False,Conor Lamb,0.95728,1
+2018,House,RI,1,False,David Cicilline,0.99996,1
+2018,House,RI,2,False,Jim Langevin,0.9999,1
+2018,House,SC,1,False,Joe Cunningham,0.09382,1
+2018,House,SC,2,False,Sean Carrigan,0.00632,0
+2018,House,SC,3,False,Mary Geren,0.00056,0
+2018,House,SC,4,False,Brandon Brown,0.00014,0
+2018,House,SC,5,False,Archie Parnell,0.01312,0
+2018,House,SC,6,False,James E. Clyburn,1.0,1
+2018,House,SC,7,False,Robert Williams,0.0057,0
+2018,House,SD,1,False,Tim Bjorkman,0.0079,0
+2018,House,TN,1,False,Martin Olsen,2e-05,0
+2018,House,TN,2,False,Renee Hoyos,0.00022,0
+2018,House,TN,3,False,Danielle Mitchell,0.00056,0
+2018,House,TN,4,False,Mariah Phillips,0.00596,0
+2018,House,TN,5,False,Jim Cooper,0.9999,1
+2018,House,TN,6,False,Dawn Barlow,0.0,0
+2018,House,TN,7,False,Justin Kanew,0.00012,0
+2018,House,TN,8,False,Erika Stotts Pearson,8e-05,0
+2018,House,TN,9,False,Steve Cohen,1.0,1
+2018,House,TX,1,False,Shirley McKellar,0.0,0
+2018,House,TX,2,False,Todd Litton,0.10656,0
+2018,House,TX,3,False,Lorie Burch,0.00776,0
+2018,House,TX,4,False,Catherine Krantz,2e-05,0
+2018,House,TX,5,False,Dan Wood,0.0004,0
+2018,House,TX,6,False,Jana Lynne Sanchez,0.0575,0
+2018,House,TX,7,False,Lizzie Pannill Fletcher,0.52232,1
+2018,House,TX,8,False,Steven David,0.0,0
+2018,House,TX,10,False,Mike Siegel,0.06278,0
+2018,House,TX,11,False,Jennie Lou Leeder,0.0,0
+2018,House,TX,12,False,Vanessa Adia,2e-05,0
+2018,House,TX,13,False,Greg Sagan,0.0,0
+2018,House,TX,14,False,Adrienne Bell,0.00844,0
+2018,House,TX,15,False,Vicente Gonzalez,0.99964,1
+2018,House,TX,16,False,Veronica Escobar,0.99996,1
+2018,House,TX,17,False,Rick Kennedy,0.00174,0
+2018,House,TX,18,False,Sheila Jackson Lee,1.0,1
+2018,House,TX,19,False,Miguel Levario,0.0,0
+2018,House,TX,20,False,Joaquin Castro,0.99992,1
+2018,House,TX,21,False,Joseph Kopser,0.15458,0
+2018,House,TX,22,False,Sri Kulkarni,0.20278,0
+2018,House,TX,23,False,Gina Ortiz Jones,0.22508,0
+2018,House,TX,24,False,Jan McDowell,0.03294,0
+2018,House,TX,25,False,Julie Oliver,0.11944,0
+2018,House,TX,26,False,Linsey Fagan,0.00048,0
+2018,House,TX,27,False,Eric Holguin,0.0011,0
+2018,House,TX,28,False,Henry Cuellar,0.99986,1
+2018,House,TX,29,False,Sylvia R. Garcia,0.99996,1
+2018,House,TX,30,False,Eddie Bernice Johnson,0.99998,1
+2018,House,TX,31,False,Mary Jennings Hegar,0.06726,0
+2018,House,TX,32,False,Colin Allred,0.37172,1
+2018,House,TX,33,False,Marc Veasey,0.99998,1
+2018,House,TX,34,False,Filemon Vela,0.99966,1
+2018,House,TX,35,False,Lloyd Doggett,0.99992,1
+2018,House,TX,36,False,Dayna Steele,2e-05,0
+2018,House,UT,1,False,Lee Castillo,0.00014,0
+2018,House,UT,2,False,Shireen Ghorbani,0.01568,0
+2018,House,UT,3,False,James Singer,0.00014,0
+2018,House,UT,4,False,Ben McAdams,0.62276,1
+2018,House,VA,1,False,Vangie Williams,0.0302,0
+2018,House,VA,2,False,Elaine G. Luria,0.32712,1
+2018,House,VA,4,False,A. Donald McEachin,0.99942,1
+2018,House,VA,5,False,Leslie Cockburn,0.46164,0
+2018,House,VA,6,False,Jennifer Lewis,0.00484,0
+2018,House,VA,7,False,Abigail Spanberger,0.43652,1
+2018,House,VA,8,False,Don Beyer,1.0,1
+2018,House,VA,9,False,Anthony Flaccavento,0.0091,0
+2018,House,VA,10,False,Jennifer T. Wexton,0.89606,1
+2018,House,VA,11,False,Gerald E. Connolly,0.99996,1
+2018,House,VT,1,False,Peter Welch,1.0,1
+2018,House,WA,1,False,Suzan DelBene,0.9993,1
+2018,House,WA,2,False,Rick Larsen,0.99982,1
+2018,House,WA,3,False,Carolyn Long,0.25914,0
+2018,House,WA,4,False,Christine Brown,0.00398,0
+2018,House,WA,5,False,Lisa Brown,0.2386,0
+2018,House,WA,6,False,Derek Kilmer,0.99984,1
+2018,House,WA,7,False,Pramila Jayapal,1.0,1
+2018,House,WA,8,False,Kim Schrier,0.66984,1
+2018,House,WA,10,False,Denny Heck,0.99958,1
+2018,House,WI,1,False,Randy Bryce,0.22128,0
+2018,House,WI,3,False,Ron Kind,0.9973,1
+2018,House,WI,4,False,Gwen Moore,1.0,1
+2018,House,WI,5,False,Tom Palzewicz,0.01058,0
+2018,House,WI,6,False,Dan Kohl,0.04564,0
+2018,House,WI,7,False,Margaret Engebretson,0.00552,0
+2018,House,WI,8,False,Beau Liegeois,0.00468,0
+2018,House,WV,1,False,Kendra Fershee,0.00042,0
+2018,House,WV,2,False,Talley Sergent,0.06562,0
+2018,House,WV,3,False,Richard Neece Ojeda,0.07366,0
+2018,House,WY,1,False,Greg Hunter,0.00032,0
+2018,Senate,AZ,0,False,Kyrsten Sinema,0.61438,1
+2018,Senate,CT,0,False,Christopher Murphy,0.99678,1
+2018,Senate,DE,0,False,Thomas R. Carper,0.99892,1
+2018,Senate,FL,0,False,Bill Nelson,0.70384,0
+2018,Senate,HI,0,False,Mazie K. Hirono,1.0,1
+2018,Senate,IN,0,False,Joe Donnelly,0.71846,0
+2018,Senate,MA,0,False,Elizabeth Warren,0.9983,1
+2018,Senate,MD,0,False,Benjamin L. Cardin,0.99994,1
+2018,Senate,ME,0,False,Zak Ringelstein,6e-05,0
+2018,Senate,MI,0,False,Debbie Stabenow,0.95812,1
+2018,Senate,MN,0,False,Amy Klobuchar,0.99774,1
+2018,Senate,MN,0,True,Tina Smith,0.92418,1
+2018,Senate,MO,0,False,Claire McCaskill,0.56892,0
+2018,Senate,MS,0,False,David Baria,0.01384,0
+2018,Senate,MT,0,False,Jon Tester,0.76016,1
+2018,Senate,ND,0,False,Heidi Heitkamp,0.26764,0
+2018,Senate,NE,0,False,Jane Raybould,0.02138,0
+2018,Senate,NJ,0,False,Robert Menendez,0.9461,1
+2018,Senate,NM,0,False,Martin Heinrich,0.99074,1
+2018,Senate,NV,0,False,Jacky Rosen,0.57024,1
+2018,Senate,NY,0,False,Kirsten E. Gillibrand,0.99954,1
+2018,Senate,OH,0,False,Sherrod Brown,0.96668,1
+2018,Senate,PA,0,False,Robert P. Casey Jr.,0.96862,1
+2018,Senate,RI,0,False,Sheldon Whitehouse,0.999,1
+2018,Senate,TN,0,False,Phil Bredesen,0.19648,0
+2018,Senate,TX,0,False,Beto O'Rourke,0.21208,0
+2018,Senate,UT,0,False,Jenny Wilson,0.00092,0
+2018,Senate,VA,0,False,Tim Kaine,0.98724,1
+2018,Senate,WA,0,False,Maria Cantwell,0.99606,1
+2018,Senate,WI,0,False,Tammy Baldwin,0.9772,1
+2018,Senate,WV,0,False,Joe Manchin III,0.87868,1
+2018,Senate,WY,0,False,Gary Trauner,0.00032,0
+2018,Governor,AK,0,False,Mark Begich,0.31096,0
+2018,Governor,AL,0,False,Walt Maddox,0.01692,0
+2018,Governor,AR,0,False,Jared Henderson,0.00062,0
+2018,Governor,AZ,0,False,David Garcia,0.0128,0
+2018,Governor,CA,0,False,Gavin Newsom,0.98794,1
+2018,Governor,CO,0,False,Jared Polis,0.9497,1
+2018,Governor,CT,0,False,Ned Lamont,0.78996,1
+2018,Governor,FL,0,False,Andrew Gillum,0.77216,0
+2018,Governor,GA,0,False,Stacey Abrams,0.3224,0
+2018,Governor,HI,0,False,David Ige,0.99854,1
+2018,Governor,IA,0,False,Fred Hubbell,0.57316,0
+2018,Governor,ID,0,False,Paulette Jordan,0.0174,0
+2018,Governor,IL,0,False,J.B. Pritzker,0.8397,1
+2018,Governor,KS,0,False,Laura Kelly,0.42814,1
+2018,Governor,MA,0,False,Jay Gonzalez,0.0008,0
+2018,Governor,MD,0,False,Ben Jealous,0.00732,0
+2018,Governor,ME,0,False,Janet Mills,0.94652,1
+2018,Governor,MI,0,False,Gretchen Whitmer,0.9313,1
+2018,Governor,MN,0,False,Tim Walz,0.93074,1
+2018,Governor,NE,0,False,Bob Krist,0.00942,0
+2018,Governor,NH,0,False,Molly Kelly,0.13988,0
+2018,Governor,NM,0,False,Michelle Lujan Grisham,0.94032,1
+2018,Governor,NV,0,False,Steve Sisolak,0.51522,1
+2018,Governor,NY,0,False,Andrew Cuomo,0.99266,1
+2018,Governor,OH,0,False,Richard Cordray,0.59492,0
+2018,Governor,OK,0,False,Drew Edmondson,0.14308,0
+2018,Governor,OR,0,False,Kate Brown,0.82336,1
+2018,Governor,PA,0,False,Tom Wolf,0.99048,1
+2018,Governor,RI,0,False,Gina Raimondo,0.9787,1
+2018,Governor,SC,0,False,James Smith,0.02558,0
+2018,Governor,SD,0,False,Billie Sutton,0.36922,0
+2018,Governor,TN,0,False,Karl Dean,0.02336,0
+2018,Governor,TX,0,False,Lupe Valdez,0.00478,0
+2018,Governor,VT,0,False,Christine Hallquist,0.06098,0
+2018,Governor,WI,0,False,Tony Evers,0.59654,1
+2018,Governor,WY,0,False,Mary Throne,0.0011,0
+2020,House,AK,1,False,Alyse S. Galvin,0.29115,0
+2020,House,AL,1,False,James Averhart,0.00185,0
+2020,House,AL,2,False,Phyllis Harvey-Hall,0.0017,0
+2020,House,AL,3,False,Adia Winfrey,0.000525,0
+2020,House,AL,4,False,Rick Neighbors,0.0,0
+2020,House,AR,2,False,Joyce Elliott,0.379975,0
+2020,House,AR,3,False,Celeste Williams,0.001775,0
+2020,House,AR,4,False,William H. Hanson,0.000325,0
+2020,House,AZ,1,False,Tom O'Halleran,0.88035,1
+2020,House,AZ,2,False,Ann Kirkpatrick,0.950225,1
+2020,House,AZ,3,False,Raul Grijalva,0.998875,1
+2020,House,AZ,4,False,Delina DiSanto,2.5e-05,0
+2020,House,AZ,5,False,Joan Greene,0.004225,0
+2020,House,AZ,6,False,Hiral Tipirneni,0.389475,0
+2020,House,AZ,7,False,Ruben Gallego,1.0,1
+2020,House,AZ,8,False,Michael Muscato,0.0083,0
+2020,House,AZ,9,False,Greg Stanton,0.997225,1
+2020,House,CA,1,False,Audrey Denney,0.121825,0
+2020,House,CA,2,False,Jared Huffman,1.0,1
+2020,House,CA,3,False,John Garamendi,0.97985,1
+2020,House,CA,4,False,Brynne S. Kennedy,0.086425,0
+2020,House,CA,5,False,Mike Thompson,1.0,1
+2020,House,CA,6,False,Doris O. Matsui,1.0,1
+2020,House,CA,7,False,Ami Bera,0.989375,1
+2020,House,CA,8,False,Christine Bubser,0.0908,0
+2020,House,CA,9,False,Jerry McNerney,0.991375,1
+2020,House,CA,10,False,Josh Harder,0.85775,1
+2020,House,CA,11,False,Mark DeSaulnier,0.999925,1
+2020,House,CA,13,False,Barbara Lee,1.0,1
+2020,House,CA,14,False,Jackie Speier,1.0,1
+2020,House,CA,15,False,Eric Swalwell,0.999975,1
+2020,House,CA,16,False,Jim Costa,0.997825,1
+2020,House,CA,17,False,Ro Khanna,0.999975,1
+2020,House,CA,19,False,Zoe Lofgren,1.0,1
+2020,House,CA,20,False,Jimmy Panetta,1.0,1
+2020,House,CA,21,False,TJ Cox,0.6087,0
+2020,House,CA,22,False,Phil Arballo,0.050875,0
+2020,House,CA,23,False,Kim Mangone,0.001,0
+2020,House,CA,24,False,Salud Carbajal,0.986225,1
+2020,House,CA,25,False,Christy Smith,0.6657,0
+2020,House,CA,26,False,Julia Brownley,0.9975,1
+2020,House,CA,27,False,Judy Chu,0.99995,1
+2020,House,CA,28,False,Adam Schiff,1.0,1
+2020,House,CA,30,False,Brad Sherman,1.0,1
+2020,House,CA,31,False,Pete Aguilar,0.996375,1
+2020,House,CA,32,False,Grace Napolitano,0.9999,1
+2020,House,CA,33,False,Ted Lieu,0.999975,1
+2020,House,CA,35,False,Norma Torres,0.999925,1
+2020,House,CA,36,False,Raul Ruiz,0.9504,1
+2020,House,CA,37,False,Karen Bass,1.0,1
+2020,House,CA,39,False,Gilbert Ray Cisneros Jr.,0.6455,0
+2020,House,CA,40,False,Lucille Roybal-Allard,1.0,1
+2020,House,CA,41,False,Mark Takano,0.998125,1
+2020,House,CA,42,False,Liam O'Mara,0.19,0
+2020,House,CA,43,False,Maxine Waters,1.0,1
+2020,House,CA,45,False,Katie Porter,0.87385,1
+2020,House,CA,46,False,J. Luis Correa,0.99995,1
+2020,House,CA,47,False,Alan Lowenthal,0.99965,1
+2020,House,CA,48,False,Harley Rouda,0.658475,0
+2020,House,CA,49,False,Mike Levin,0.976675,1
+2020,House,CA,50,False,Ammar Campa-Najjar,0.067,0
+2020,House,CA,51,False,Juan Vargas,1.0,1
+2020,House,CA,52,False,Scott Peters,0.9988,1
+2020,House,CO,1,False,Diana DeGette,0.99995,1
+2020,House,CO,2,False,Joe Neguse,0.998275,1
+2020,House,CO,3,False,Diane E. Mitsch Bush,0.5253,0
+2020,House,CO,4,False,Ike McCorkle,0.04155,0
+2020,House,CO,5,False,Jillian Freeland,0.01525,0
+2020,House,CO,6,False,Jason Crow,0.9685,1
+2020,House,CO,7,False,Ed Perlmutter,0.9921,1
+2020,House,CT,1,False,John B. Larson,0.9987,1
+2020,House,CT,2,False,Joe Courtney,0.993025,1
+2020,House,CT,3,False,Rosa L. DeLauro,0.9961,1
+2020,House,CT,4,False,Jim Himes,0.998125,1
+2020,House,CT,5,False,Jahana Hayes,0.95565,1
+2020,House,DE,1,False,Lisa Blunt Rochester,0.997975,1
+2020,House,FL,1,False,Phil Ehr,0.00085,0
+2020,House,FL,3,False,Adam Christensen,0.026775,0
+2020,House,FL,4,False,Donna Deegan,0.0028,0
+2020,House,FL,5,False,Al Lawson,0.999525,1
+2020,House,FL,6,False,Clint Curtis,0.00305,0
+2020,House,FL,7,False,Stephanie Murphy,0.948675,1
+2020,House,FL,8,False,Jim Kennedy,0.002925,0
+2020,House,FL,9,False,Darren Soto,0.9375,1
+2020,House,FL,10,False,Val Demings,0.999675,1
+2020,House,FL,11,False,Dana Marie Cottrell,0.00065,0
+2020,House,FL,12,False,Kimberly Walker,0.00395,0
+2020,House,FL,13,False,Charlie Crist,0.94795,1
+2020,House,FL,14,False,Kathy Castor,0.99875,1
+2020,House,FL,15,False,Alan Cohn,0.24305,0
+2020,House,FL,16,False,Margaret Good,0.1609,0
+2020,House,FL,17,False,Allen Ellison,0.00195,0
+2020,House,FL,18,False,Pam Keith,0.105225,0
+2020,House,FL,19,False,Cindy Lyn Banyai,0.003825,0
+2020,House,FL,20,False,Alcee L. Hastings,1.0,1
+2020,House,FL,21,False,Lois Frankel,0.99785,1
+2020,House,FL,22,False,Ted Deutch,0.9967,1
+2020,House,FL,23,False,Debbie Wasserman Schultz,0.995725,1
+2020,House,FL,24,False,Frederica Wilson,1.0,1
+2020,House,FL,26,False,Debbie Mucarsel-Powell,0.86205,0
+2020,House,FL,27,False,Donna E. Shalala,0.681575,0
+2020,House,GA,1,False,Joyce Marie Griggs,0.00375,0
+2020,House,GA,2,False,Sanford D. Bishop Jr.,0.935425,1
+2020,House,GA,3,False,Val Almonord,0.00015,0
+2020,House,GA,4,False,Hank Johnson,1.0,1
+2020,House,GA,5,False,Nikema Williams,1.0,1
+2020,House,GA,6,False,Lucy McBath,0.602075,1
+2020,House,GA,7,False,Carolyn Bourdeaux,0.303575,1
+2020,House,GA,8,False,Lindsay Holliday,0.00015,0
+2020,House,GA,9,False,Devin Pandy,0.0,0
+2020,House,GA,10,False,Tabitha Johnson-Green,0.000275,0
+2020,House,GA,11,False,Dana Barrett,0.004825,0
+2020,House,GA,12,False,Liz Johnson,0.002875,0
+2020,House,GA,13,False,David Scott,0.999975,1
+2020,House,GA,14,False,Kevin Van Ausdal,0.0,0
+2020,House,HI,1,False,Ed Case,0.99995,1
+2020,House,HI,2,False,Kaiali'i Kahele,0.99975,1
+2020,House,IA,1,False,Abby Finkenauer,0.933425,0
+2020,House,IA,2,False,Rita R. Hart,0.93965,0
+2020,House,IA,3,False,Cynthia Axne,0.867975,1
+2020,House,IA,4,False,J.D. Scholten,0.0707,0
+2020,House,ID,1,False,Rudy Soto,0.0018,0
+2020,House,ID,2,False,C. Aaron Swisher,0.002025,0
+2020,House,IL,1,False,Bobby L. Rush,1.0,1
+2020,House,IL,2,False,Robin Kelly,1.0,1
+2020,House,IL,3,False,Marie Newman,0.97065,1
+2020,House,IL,4,False,Chuy García,1.0,1
+2020,House,IL,5,False,Mike Quigley,0.99995,1
+2020,House,IL,6,False,Sean Casten,0.68995,1
+2020,House,IL,7,False,Danny K. Davis,1.0,1
+2020,House,IL,9,False,Jan Schakowsky,1.0,1
+2020,House,IL,10,False,Bradley Schneider,0.99955,1
+2020,House,IL,11,False,Bill Foster,0.99915,1
+2020,House,IL,12,False,Raymond C. Lenzi,0.02445,0
+2020,House,IL,13,False,Betsy Dirksen Londrigan,0.4147,0
+2020,House,IL,14,False,Lauren Underwood,0.803875,1
+2020,House,IL,15,False,Erika C. Weaver,0.000275,0
+2020,House,IL,16,False,Dani Brzozowski,0.02025,0
+2020,House,IL,17,False,Cheri Bustos,0.949475,1
+2020,House,IL,18,False,George Petrilli,0.000275,0
+2020,House,IN,1,False,Frank J. Mrvan,0.997825,1
+2020,House,IN,2,False,Pat Hackett,0.05075,0
+2020,House,IN,3,False,Chip Coldiron,0.00075,0
+2020,House,IN,4,False,Joe Mackey,0.00075,0
+2020,House,IN,5,False,Christina Hale,0.451925,0
+2020,House,IN,6,False,Jeannine Lee Lake,0.000225,0
+2020,House,IN,7,False,André Carson,0.999425,1
+2020,House,IN,8,False,E. Thomasina Marsili,0.001125,0
+2020,House,IN,9,False,Andy Ruff,0.0162,0
+2020,House,KS,1,False,Kali Barnett,0.0004,0
+2020,House,KS,2,False,Michelle De La Isla,0.1944,0
+2020,House,KS,3,False,Sharice Davids,0.964675,1
+2020,House,KS,4,False,Laura Lombard,0.014275,0
+2020,House,KY,1,False,James Rhodes,0.00015,0
+2020,House,KY,2,False,Hank Linderman,0.000775,0
+2020,House,KY,3,False,John A. Yarmuth,0.998725,1
+2020,House,KY,4,False,Alexandra Owensby,0.0008,0
+2020,House,KY,5,False,Matthew Ryan Best,0.0,0
+2020,House,KY,6,False,Josh Hicks,0.325825,0
+2020,House,LA,1,False,Lee Ann Dugas,0.0,0
+2020,House,LA,6,False,Dartanyon Williams,5e-05,0
+2020,House,MA,2,False,James McGovern,0.99885,1
+2020,House,MA,4,False,Jake Auchincloss,0.99825,1
+2020,House,MA,5,False,Katherine Clark,0.999925,1
+2020,House,MA,6,False,Seth Moulton,0.996225,1
+2020,House,MA,9,False,William Keating,0.9934,1
+2020,House,MD,1,False,Mia Mason,0.000975,0
+2020,House,MD,2,False,C.A. Dutch Ruppersberger,0.9991,1
+2020,House,MD,3,False,John P. Sarbanes,0.999725,1
+2020,House,MD,4,False,Anthony Brown,1.0,1
+2020,House,MD,5,False,Steny H. Hoyer,0.999925,1
+2020,House,MD,6,False,David Trone,0.976675,1
+2020,House,MD,7,False,Kweisi Mfume,0.999975,1
+2020,House,MD,8,False,Jamie Raskin,0.999975,1
+2020,House,ME,1,False,Chellie Pingree,0.998075,1
+2020,House,ME,2,False,Jared Golden,0.95495,1
+2020,House,MI,1,False,Dana Ferguson,0.030025,0
+2020,House,MI,2,False,Bryan Berghoef,0.11225,0
+2020,House,MI,3,False,Hillary Scholten,0.52465,0
+2020,House,MI,4,False,Jerry Hilliard,0.0055,0
+2020,House,MI,5,False,Daniel Kildee,0.993875,1
+2020,House,MI,6,False,Jon Hoadley,0.41905,0
+2020,House,MI,7,False,Gretchen D. Driskell,0.274675,0
+2020,House,MI,8,False,Elissa Slotkin,0.9426,1
+2020,House,MI,9,False,Andy Levin,0.99755,1
+2020,House,MI,10,False,Kimberly Bizon,0.011525,0
+2020,House,MI,11,False,Haley Stevens,0.930775,1
+2020,House,MI,12,False,Debbie Dingell,0.999875,1
+2020,House,MI,13,False,Rashida Tlaib,1.0,1
+2020,House,MI,14,False,Brenda Lawrence,1.0,1
+2020,House,MN,1,False,Dan Feehan,0.3042,0
+2020,House,MN,2,False,Angie Craig,0.9057,1
+2020,House,MN,3,False,Dean Phillips,0.9518,1
+2020,House,MN,4,False,Betty McCollum,0.99975,1
+2020,House,MN,5,False,Ilhan Omar,0.99985,1
+2020,House,MN,6,False,Tawnja Zahradka,0.001875,0
+2020,House,MN,7,False,Collin C. Peterson,0.159925,0
+2020,House,MN,8,False,Quinn Nystrom,0.12305,0
+2020,House,MO,1,False,Cori Bush,0.999975,1
+2020,House,MO,2,False,Jill Schupp,0.2854,0
+2020,House,MO,3,False,Megan Rezabek,0.000175,0
+2020,House,MO,4,False,Lindsey Simmons,0.0006,0
+2020,House,MO,5,False,Emanuel Cleaver,0.994775,1
+2020,House,MO,6,False,Gena L. Ross,0.000375,0
+2020,House,MO,7,False,Teresa Montseny,5e-05,0
+2020,House,MO,8,False,Kathy Ellis,2.5e-05,0
+2020,House,MS,1,False,Antonia Eliason,0.00025,0
+2020,House,MS,2,False,Bennie G. Thompson,0.999875,1
+2020,House,MS,3,False,Dot Benford,0.0006,0
+2020,House,MT,1,False,Kathleen Williams,0.315475,0
+2020,House,NC,1,False,G.K. Butterfield,0.873625,1
+2020,House,NC,2,False,Deborah K. Ross,0.999275,1
+2020,House,NC,3,False,Daryl Farrow,0.001875,0
+2020,House,NC,4,False,David Price,0.9998,1
+2020,House,NC,5,False,David Wilson Brown,0.00105,0
+2020,House,NC,6,False,Kathy Manning,0.998925,1
+2020,House,NC,7,False,Christopher M. Ward,0.007475,0
+2020,House,NC,8,False,Patricia Timmons-Goodson,0.462925,0
+2020,House,NC,9,False,Cynthia L. Wallace,0.1812,0
+2020,House,NC,10,False,David Parker,0.000625,0
+2020,House,NC,11,False,Moe Davis,0.34585,0
+2020,House,NC,13,False,Scott Huffman,0.000775,0
+2020,House,ND,1,False,Zach Raknerud,0.000525,0
+2020,House,NE,1,False,Kate Bolz,0.0541,0
+2020,House,NE,2,False,Kara Eastman,0.425325,0
+2020,House,NE,3,False,Mark Elworth Jr.,2.5e-05,0
+2020,House,NH,1,False,Chris Pappas,0.772925,1
+2020,House,NH,2,False,Ann Kuster,0.960875,1
+2020,House,NJ,1,False,Donald Norcross,0.999675,1
+2020,House,NJ,2,False,Amy Kennedy,0.453575,0
+2020,House,NJ,3,False,Andy Kim,0.906575,1
+2020,House,NJ,4,False,Stephanie Schmid,0.029825,0
+2020,House,NJ,5,False,Josh Gottheimer,0.9691,1
+2020,House,NJ,6,False,Frank Pallone Jr.,0.998575,1
+2020,House,NJ,7,False,Tom Malinowski,0.733375,1
+2020,House,NJ,8,False,Albio Sires,1.0,1
+2020,House,NJ,9,False,Bill Pascrell Jr.,0.999825,1
+2020,House,NJ,10,False,Donald Payne Jr.,1.0,1
+2020,House,NJ,11,False,Mikie Sherrill,0.954025,1
+2020,House,NJ,12,False,Bonnie Watson Coleman,0.999975,1
+2020,House,NM,1,False,Debra Haaland,0.99805,1
+2020,House,NM,2,False,Xochitl Torres Small,0.565975,0
+2020,House,NM,3,False,Teresa Leger Fernandez,0.998475,1
+2020,House,NV,1,False,Dina Titus,0.9999,1
+2020,House,NV,2,False,Patricia Ackerman,0.0439,0
+2020,House,NV,3,False,Susie Lee,0.84535,1
+2020,House,NV,4,False,Steven Horsford,0.55285,1
+2020,House,NY,1,False,Nancy Goroff,0.157725,0
+2020,House,NY,2,False,Jackie Gordon,0.690225,0
+2020,House,NY,3,False,Thomas Suozzi,0.984525,1
+2020,House,NY,4,False,Kathleen Rice,0.99575,1
+2020,House,NY,6,False,Grace Meng,0.999925,1
+2020,House,NY,7,False,Nydia M. Velázquez,1.0,1
+2020,House,NY,8,False,Hakeem Jeffries,1.0,1
+2020,House,NY,9,False,Yvette D. Clarke,1.0,1
+2020,House,NY,10,False,Jerrold Nadler,1.0,1
+2020,House,NY,11,False,Max Rose,0.612025,0
+2020,House,NY,12,False,Carolyn Maloney,1.0,1
+2020,House,NY,13,False,Adriano Espaillat,1.0,1
+2020,House,NY,14,False,Alexandria Ocasio-Cortez,1.0,1
+2020,House,NY,17,False,Mondaire Jones,0.998625,1
+2020,House,NY,18,False,Sean Patrick Maloney,0.935,1
+2020,House,NY,19,False,Antonio Delgado,0.934025,1
+2020,House,NY,20,False,Paul D. Tonko,0.994425,1
+2020,House,NY,21,False,Tedra Cobb,0.09435,0
+2020,House,NY,22,False,Anthony Brindisi,0.777625,1
+2020,House,NY,23,False,Tracy Mitrano,0.065925,0
+2020,House,NY,24,False,Dana Balter,0.44885,0
+2020,House,NY,25,False,Joseph Morelle,0.99785,1
+2020,House,NY,26,False,Brian Higgins,0.999825,1
+2020,House,NY,27,False,Nate McMurray,0.014525,0
+2020,House,OH,1,False,Kate Schroder,0.331325,0
+2020,House,OH,2,False,Jaime Castle,0.0214,0
+2020,House,OH,3,False,Joyce Beatty,0.999975,1
+2020,House,OH,4,False,Shannon Freshour,0.002025,0
+2020,House,OH,5,False,Nick Rubando,0.004875,0
+2020,House,OH,6,False,Shawna Roberts,0.0003,0
+2020,House,OH,7,False,Quentin Potter,0.002775,0
+2020,House,OH,8,False,Vanessa Enoch,0.000325,0
+2020,House,OH,9,False,Marcy Kaptur,0.999775,1
+2020,House,OH,10,False,Desiree Tims,0.153125,0
+2020,House,OH,11,False,Marcia L. Fudge,1.0,1
+2020,House,OH,12,False,Alaina Shearer,0.1165,0
+2020,House,OH,13,False,Tim Ryan,0.9657,1
+2020,House,OH,14,False,Hillary O'Connor Mueri,0.054025,0
+2020,House,OH,15,False,Joel Newby,0.006125,0
+2020,House,OH,16,False,Aaron Paul Godfrey,0.0045,0
+2020,House,OK,1,False,Kojo Asamoa-Caesar,0.00045,0
+2020,House,OK,2,False,Danyell Lanier,5e-05,0
+2020,House,OK,3,False,Zoe Ann Midyett,2.5e-05,0
+2020,House,OK,4,False,Mary Brannon,0.0003,0
+2020,House,OK,5,False,Kendra Horn,0.50035,0
+2020,House,OR,1,False,Suzanne Bonamici,0.999175,1
+2020,House,OR,2,False,Alex Spenser,0.01475,0
+2020,House,OR,3,False,Earl Blumenauer,0.999975,1
+2020,House,OR,4,False,Peter DeFazio,0.7702,1
+2020,House,OR,5,False,Kurt Schrader,0.92785,1
+2020,House,PA,1,False,Christina M. Finello,0.20095,0
+2020,House,PA,2,False,Brendan Boyle,1.0,1
+2020,House,PA,3,False,Dwight Evans,1.0,1
+2020,House,PA,4,False,Madeleine Dean,0.987525,1
+2020,House,PA,5,False,Mary Gay Scanlon,0.999825,1
+2020,House,PA,6,False,Chrissy Houlahan,0.988525,1
+2020,House,PA,7,False,Susan Wild,0.956825,1
+2020,House,PA,8,False,Matt Cartwright,0.8974,1
+2020,House,PA,9,False,Gary Wegman,0.00125,0
+2020,House,PA,10,False,Eugene A. DePasquale,0.455425,0
+2020,House,PA,11,False,Sarah Hammond,0.001325,0
+2020,House,PA,12,False,Lee Griffin,0.0002,0
+2020,House,PA,13,False,Todd Rowley,5e-05,0
+2020,House,PA,14,False,William A. Marx,0.001325,0
+2020,House,PA,15,False,Robert M. Williams,0.0001,0
+2020,House,PA,16,False,Kristy Gnibus,0.060525,0
+2020,House,PA,17,False,Conor Lamb,0.84235,1
+2020,House,PA,18,False,Michael Doyle,0.9998,1
+2020,House,RI,2,False,Jim Langevin,0.997125,1
+2020,House,SC,1,False,Joe Cunningham,0.5766,0
+2020,House,SC,2,False,Adair Ford Boroughs,0.0923,0
+2020,House,SC,3,False,Hosea Cleveland,0.00015,0
+2020,House,SC,4,False,Kim Nelson,0.002475,0
+2020,House,SC,5,False,Moe Brown,0.029675,0
+2020,House,SC,6,False,James E. Clyburn,0.999925,1
+2020,House,SC,7,False,Melissa Ward Watson,0.009125,0
+2020,House,TN,1,False,Blair Walsingham,2.5e-05,0
+2020,House,TN,2,False,Renee Hoyos,0.000675,0
+2020,House,TN,3,False,Meg Gorman,0.00055,0
+2020,House,TN,4,False,Christopher J. Hale,0.001475,0
+2020,House,TN,6,False,Christopher Martin Finley,7.5e-05,0
+2020,House,TN,7,False,Kiran Sreepada,0.00015,0
+2020,House,TN,8,False,Erika Stotts Pearson,5e-05,0
+2020,House,TN,9,False,Steve Cohen,1.0,1
+2020,House,TX,1,False,Hank Gilbert,0.000125,0
+2020,House,TX,2,False,Sima Ladjevardian,0.008025,0
+2020,House,TX,3,False,Lulu Seikaly,0.0973,0
+2020,House,TX,4,False,Russell Foster,0.0,0
+2020,House,TX,5,False,Carolyn Salter,0.000875,0
+2020,House,TX,6,False,Stephen Daniel,0.111475,0
+2020,House,TX,7,False,Lizzie Fletcher,0.630375,1
+2020,House,TX,8,False,Elizabeth Hernandez,0.0,0
+2020,House,TX,9,False,Al Green,1.0,1
+2020,House,TX,10,False,Mike Siegel,0.04795,0
+2020,House,TX,11,False,Jon Mark Hogg,0.0,0
+2020,House,TX,12,False,Lisa Welch,0.0002,0
+2020,House,TX,13,False,Gus Trujillo,0.0,0
+2020,House,TX,14,False,Adrienne Bell,0.007625,0
+2020,House,TX,15,False,Vicente Gonzalez,0.96425,1
+2020,House,TX,16,False,Veronica Escobar,0.99975,1
+2020,House,TX,17,False,Rick Kennedy,0.04185,0
+2020,House,TX,18,False,Sheila Jackson Lee,1.0,1
+2020,House,TX,19,False,Tom Watson,0.0,0
+2020,House,TX,20,False,Joaquin Castro,0.99955,1
+2020,House,TX,21,False,Wendy Davis,0.30365,0
+2020,House,TX,22,False,Sri Preston Kulkarni,0.338975,0
+2020,House,TX,23,False,Gina Ortiz Jones,0.751225,0
+2020,House,TX,24,False,Candace Valenzuela,0.365325,0
+2020,House,TX,25,False,Julie Oliver,0.171875,0
+2020,House,TX,26,False,Carol H. Iannuzzi,0.00085,0
+2020,House,TX,27,False,Ricardo De La Fuente,0.000575,0
+2020,House,TX,28,False,Henry Cuellar,0.999275,1
+2020,House,TX,29,False,Sylvia Garcia,0.999975,1
+2020,House,TX,30,False,Eddie Bernice Johnson,1.0,1
+2020,House,TX,31,False,Donna Imam,0.090075,0
+2020,House,TX,32,False,Colin Allred,0.7448,1
+2020,House,TX,33,False,Marc Veasey,1.0,1
+2020,House,TX,34,False,Filemon Vela,0.99705,1
+2020,House,TX,35,False,Lloyd Doggett,0.999875,1
+2020,House,TX,36,False,Rashad Lewis,0.0,0
+2020,House,UT,1,False,Darren Parry,0.0015,0
+2020,House,UT,2,False,Kael Weston,0.0188,0
+2020,House,UT,3,False,Devin Thorpe,0.0018,0
+2020,House,UT,4,False,Ben McAdams,0.537025,0
+2020,House,VA,1,False,Qasim Rashid,0.201525,0
+2020,House,VA,2,False,Elaine Luria,0.875475,1
+2020,House,VA,3,False,Robert C. Scott,0.9999,1
+2020,House,VA,4,False,A. Donald McEachin,0.9956,1
+2020,House,VA,5,False,Cameron Webb,0.597,0
+2020,House,VA,6,False,Nicholas Betts,0.004075,0
+2020,House,VA,7,False,Abigail Spanberger,0.819175,1
+2020,House,VA,8,False,Don Beyer,1.0,1
+2020,House,VA,10,False,Jennifer Wexton,0.990525,1
+2020,House,VA,11,False,Gerry Connolly,0.999925,1
+2020,House,VT,1,False,Peter Welch,0.999725,1
+2020,House,WA,1,False,Suzan DelBene,0.995475,1
+2020,House,WA,2,False,Rick Larsen,0.99985,1
+2020,House,WA,3,False,Carolyn Long,0.216925,0
+2020,House,WA,4,False,Douglas McKinley,0.001725,0
+2020,House,WA,5,False,Dave Wilson,0.026925,0
+2020,House,WA,6,False,Derek Kilmer,0.99785,1
+2020,House,WA,7,False,Pramila Jayapal,1.0,1
+2020,House,WA,8,False,Kim Schrier,0.968825,1
+2020,House,WA,9,False,Adam Smith,1.0,1
+2020,House,WI,1,False,Roger Polack,0.018375,0
+2020,House,WI,2,False,Mark Pocan,0.99995,1
+2020,House,WI,3,False,Ron Kind,0.77695,1
+2020,House,WI,4,False,Gwen Moore,1.0,1
+2020,House,WI,5,False,Tom Palzewicz,0.011325,0
+2020,House,WI,6,False,Jessica J. King,0.029175,0
+2020,House,WI,7,False,Tricia Zunker,0.045325,0
+2020,House,WI,8,False,Amanda Stuck,0.007575,0
+2020,House,WV,1,False,Natalie Cline,0.0008,0
+2020,House,WV,2,False,Cathy Kunkel,0.00985,0
+2020,House,WV,3,False,Hilary Turner,0.00075,0
+2020,House,WY,1,False,Lynnette Grey Bull,0.000425,0
+2020,Senate,AK,0,False,Al Gross,0.29005,0
+2020,Senate,AL,0,False,Doug Jones,0.163775,0
+2020,Senate,AZ,0,True,Mark Kelly,0.7916,1
+2020,Senate,CO,0,False,John W. Hickenlooper,0.8466,1
+2020,Senate,DE,0,False,Christopher A. Coons,0.9994,1
+2020,Senate,GA,0,False,Jon Ossoff,0.47405,1
+2020,Senate,IA,0,False,Theresa Greenfield,0.497575,0
+2020,Senate,ID,0,False,Paulette Jordan,0.00765,0
+2020,Senate,IL,0,False,Richard J. Durbin,0.997175,1
+2020,Senate,KS,0,False,Barbara Bollier,0.2479,0
+2020,Senate,KY,0,False,Amy McGrath,0.07355,0
+2020,Senate,MA,0,False,Ed Markey,0.999725,1
+2020,Senate,ME,0,False,Sara Gideon,0.58625,0
+2020,Senate,MI,0,False,Gary Peters,0.846375,1
+2020,Senate,MN,0,False,Tina Smith,0.8871,1
+2020,Senate,MS,0,False,Mike Espy,0.25865,0
+2020,Senate,MT,0,False,Steve Bullock,0.339725,0
+2020,Senate,NC,0,False,Cal Cunningham,0.7057,0
+2020,Senate,NE,0,False,Chris Janicek,0.001825,0
+2020,Senate,NH,0,False,Jeanne Shaheen,0.973975,1
+2020,Senate,NJ,0,False,Cory Booker,0.998525,1
+2020,Senate,NM,0,False,Ben Ray Luján,0.88855,1
+2020,Senate,OK,0,False,Abby Broyles,0.00995,0
+2020,Senate,OR,0,False,Jeff Merkley,0.994675,1
+2020,Senate,RI,0,False,Jack Reed,0.999775,1
+2020,Senate,SC,0,False,Jaime Harrison,0.24715,0
+2020,Senate,SD,0,False,Dan Ahlers,0.009325,0
+2020,Senate,TN,0,False,Marquita Bradshaw,0.0046,0
+2020,Senate,TX,0,False,M.J. Hegar,0.169875,0
+2020,Senate,VA,0,False,Mark Warner,0.988175,1
+2020,Senate,WV,0,False,Paula Jean Swearengin,0.0096,0
+2020,Senate,WY,0,False,Merav Ben-David,0.0009,0
+2022,House,AK,1,False,Mary S. Peltola,0.390575,1
+2022,House,AL,2,False,Phyllis Harvey-Hall,2.5e-05,0
+2022,House,AL,3,False,Lin Veasey,0.0,0
+2022,House,AL,4,False,Rick Neighbors,0.0,0
+2022,House,AL,5,False,Kathy Warner-Stanton,5e-05,0
+2022,House,AL,7,False,Terrycina Sewell,0.999875,1
+2022,House,AR,1,False,Monte Hodges,0.0,0
+2022,House,AR,2,False,Quintessa Hathaway,0.0008,0
+2022,House,AR,3,False,Lauren Mallett-Hays,2.5e-05,0
+2022,House,AR,4,False,John White,0.0,0
+2022,House,AZ,1,False,Jevin Hodge,0.075,0
+2022,House,AZ,2,False,Tom O'Halleran,0.275175,0
+2022,House,AZ,3,False,Ruben Gallego,1.0,1
+2022,House,AZ,4,False,Greg Stanton,0.89415,1
+2022,House,AZ,5,False,Javier Ramos,0.00065,0
+2022,House,AZ,6,False,Kirsten Engel,0.126375,0
+2022,House,AZ,7,False,Raúl Grijalva,0.9937,1
+2022,House,CA,1,False,Max Steiner,0.00085,0
+2022,House,CA,2,False,Jared Huffman,1.0,1
+2022,House,CA,3,False,Kermit Jones,0.0688,0
+2022,House,CA,4,False,Mike Thompson,0.999975,1
+2022,House,CA,5,False,Michael J. “Mike” Barkley,0.00115,0
+2022,House,CA,6,False,Ami Bera,0.976125,1
+2022,House,CA,7,False,Doris Matsui,0.99995,1
+2022,House,CA,8,False,John Garamendi,1.0,1
+2022,House,CA,9,False,Josh Harder,0.725425,1
+2022,House,CA,11,False,Nancy Pelosi,1.0,1
+2022,House,CA,12,False,Barbara Lee,1.0,1
+2022,House,CA,13,False,Adam Gray,0.641225,0
+2022,House,CA,14,False,Eric Swalwell,1.0,1
+2022,House,CA,17,False,Ro Khanna,1.0,1
+2022,House,CA,18,False,Zoe Lofgren,1.0,1
+2022,House,CA,19,False,Jimmy Panetta,1.0,1
+2022,House,CA,20,False,Marisa Wood,7.5e-05,0
+2022,House,CA,21,False,Jim Costa,0.89385,1
+2022,House,CA,22,False,Rudy Salas,0.608225,0
+2022,House,CA,23,False,Derek Marshall,0.003825,0
+2022,House,CA,24,False,Salud Carbajal,0.999425,1
+2022,House,CA,25,False,Raul Ruiz,0.885425,1
+2022,House,CA,26,False,Julia Brownley,0.9483,1
+2022,House,CA,27,False,Christy Smith,0.62165,0
+2022,House,CA,28,False,Judy Chu,0.99995,1
+2022,House,CA,31,False,Grace F. Napolitano,0.9996,1
+2022,House,CA,32,False,Brad Sherman,0.999975,1
+2022,House,CA,33,False,Pete Aguilar,0.9974,1
+2022,House,CA,35,False,Norma J. Torres,0.998625,1
+2022,House,CA,36,False,Ted W. Lieu,0.999975,1
+2022,House,CA,38,False,Linda T. Sánchez,0.9983,1
+2022,House,CA,39,False,Mark Takano,0.995825,1
+2022,House,CA,40,False,Asif Mahmood,0.0359,0
+2022,House,CA,41,False,Will Rollins,0.12125,0
+2022,House,CA,42,False,Robert Garcia,0.999975,1
+2022,House,CA,43,False,Maxine Waters,1.0,1
+2022,House,CA,44,False,Nanette Diaz Barragan,1.0,1
+2022,House,CA,45,False,Jay F. Chen,0.34445,0
+2022,House,CA,46,False,Lou Correa,0.99975,1
+2022,House,CA,47,False,Katie Porter,0.744675,1
+2022,House,CA,48,False,Stephen Houlahan,0.00775,0
+2022,House,CA,49,False,Mike Levin,0.83205,1
+2022,House,CA,50,False,Scott Peters,0.999275,1
+2022,House,CA,51,False,Sara Jacobs,0.9994,1
+2022,House,CA,52,False,Juan Vargas,0.99995,1
+2022,House,CO,1,False,Diana DeGette,1.0,1
+2022,House,CO,2,False,Joe Neguse,0.9996,1
+2022,House,CO,3,False,Adam Frisch,0.07865,0
+2022,House,CO,4,False,Ike McCorkle,0.000575,0
+2022,House,CO,5,False,David Torres,0.0034,0
+2022,House,CO,6,False,Jason Crow,0.972675,1
+2022,House,CO,7,False,Brittany Pettersen,0.7765,1
+2022,House,CO,8,False,Yadira Caraveo,0.151,1
+2022,House,CT,1,False,John B. Larson,0.997875,1
+2022,House,CT,2,False,Joe Courtney,0.951175,1
+2022,House,CT,3,False,Rosa L. DeLauro,0.97675,1
+2022,House,CT,4,False,Jim Himes,0.994575,1
+2022,House,CT,5,False,Jahana Hayes,0.549875,1
+2022,House,DE,1,False,Lisa Blunt Rochester,0.965825,1
+2022,House,FL,1,False,Rebekah Jones,0.001975,0
+2022,House,FL,2,False,Al Lawson,0.0218,0
+2022,House,FL,3,False,Danielle Hawk,0.002025,0
+2022,House,FL,4,False,LaShonda “L.J.” Holloway,0.009025,0
+2022,House,FL,7,False,Karen Green,0.007875,0
+2022,House,FL,8,False,Joanne Terry,0.000225,0
+2022,House,FL,9,False,Darren Soto,0.87425,1
+2022,House,FL,10,False,Maxwell Alejandro Frost,0.99785,1
+2022,House,FL,11,False,Shante Munns,0.000575,0
+2022,House,FL,12,False,Kimberly Walker,0.0,0
+2022,House,FL,13,False,Eric Lynn,0.156025,0
+2022,House,FL,14,False,Kathy Castor,0.975125,1
+2022,House,FL,15,False,Alan M. Cohn,0.0575,0
+2022,House,FL,16,False,Jan Schneider,0.0026,0
+2022,House,FL,17,False,Andrea Doria Kale,0.000525,0
+2022,House,FL,19,False,Cindy Banyai,0.0001,0
+2022,House,FL,20,False,Sheila Cherfilus-McCormick,1.0,1
+2022,House,FL,21,False,Corinna Balderramos Robinson,0.0031,0
+2022,House,FL,22,False,Lois Frankel,0.980725,1
+2022,House,FL,23,False,Jared Moskowitz,0.8466,1
+2022,House,FL,24,False,Frederica Wilson,1.0,1
+2022,House,FL,25,False,Debbie Wasserman Schultz,0.99155,1
+2022,House,FL,26,False,Christine Alexandria Olivo,0.00135,0
+2022,House,FL,27,False,Annette Taddeo,0.1884,0
+2022,House,FL,28,False,Robert Asencio,0.01755,0
+2022,House,GA,1,False,Wade Herring,0.001525,0
+2022,House,GA,2,False,Sanford Bishop,0.786675,1
+2022,House,GA,3,False,Val Almonord,0.0,0
+2022,House,GA,4,False,Henry C. “Hank” Johnson Jr.,1.0,1
+2022,House,GA,5,False,Nikema Williams,1.0,1
+2022,House,GA,6,False,Bob Christian,0.000775,0
+2022,House,GA,7,False,Lucy McBath,0.978775,1
+2022,House,GA,8,False,Darrius Butler,2.5e-05,0
+2022,House,GA,9,False,Michael “Mike” Ford,0.0,0
+2022,House,GA,10,False,Tabitha Johnson-Green,2.5e-05,0
+2022,House,GA,11,False,Antonio Daza,0.0002,0
+2022,House,GA,12,False,Elizabeth “Liz” Johnson,0.00085,0
+2022,House,GA,13,False,David Scott,0.999975,1
+2022,House,GA,14,False,Marcus Flowers,5e-05,0
+2022,House,HI,1,False,Ed Case,0.99955,1
+2022,House,HI,2,False,Jill N. Tokuda,0.99935,1
+2022,House,IA,1,False,Christina Bohannan,0.121725,0
+2022,House,IA,2,False,Liz Mathis,0.147575,0
+2022,House,IA,3,False,Cindy Axne,0.3822,0
+2022,House,IA,4,False,Ryan Melton,0.00015,0
+2022,House,ID,1,False,Kaylee Peterson,0.0,0
+2022,House,ID,2,False,Wendy Norman,0.0001,0
+2022,House,IL,1,False,Jonathan L. Jackson,1.0,1
+2022,House,IL,2,False,Robin Kelly,1.0,1
+2022,House,IL,3,False,Delia Ramirez,0.99995,1
+2022,House,IL,4,False,Jesus “Chuy” Garcia,1.0,1
+2022,House,IL,5,False,Mike Quigley,0.9999,1
+2022,House,IL,6,False,Sean Casten,0.496,1
+2022,House,IL,8,False,Raja Krishnamoorthi,0.966175,1
+2022,House,IL,9,False,Janice D. Schakowsky,0.999975,1
+2022,House,IL,10,False,Brad Schneider,0.99225,1
+2022,House,IL,11,False,Bill Foster,0.944175,1
+2022,House,IL,12,False,Homer “Chip” Markel,0.0,0
+2022,House,IL,13,False,Nikki Budzinski,0.78325,1
+2022,House,IL,14,False,Lauren Underwood,0.655225,1
+2022,House,IL,15,False,Paul J. Lange,0.0,0
+2022,House,IL,16,False,Elizabeth Haderlein,7.5e-05,0
+2022,House,IL,17,False,Eric Sorensen,0.572975,1
+2022,House,IN,1,False,Frank J. Mrvan,0.89255,1
+2022,House,IN,2,False,Paul D. Steury,0.0004,0
+2022,House,IN,3,False,Gary L. Snyder,5e-05,0
+2022,House,IN,4,False,Roger D. Day,2.5e-05,0
+2022,House,IN,5,False,Jeannine Lee Lake,0.0011,0
+2022,House,IN,6,False,Cynthia “Cinde” Wirth,2.5e-05,0
+2022,House,IN,7,False,André D. Carson,0.9995,1
+2022,House,IN,8,False,Ray McCormick,5e-05,0
+2022,House,IN,9,False,Matthew Fyfe,7.5e-05,0
+2022,House,KS,1,False,James “Jimmy” Beard,0.0,0
+2022,House,KS,2,False,Patrick Schmidt,0.0056,0
+2022,House,KS,3,False,Sharice Davids,0.73215,1
+2022,House,KS,4,False,Bob Hernandez,7.5e-05,0
+2022,House,KY,1,False,Jimmy C. Ausbrooks,0.0,0
+2022,House,KY,2,False,Hank Linderman,0.0,0
+2022,House,KY,3,False,Morgan McGarvey,0.9955,1
+2022,House,KY,4,False,Matthew Lehman,0.000225,0
+2022,House,KY,5,False,Conor Halbleib,0.0,0
+2022,House,KY,6,False,Geoffrey M. “Geoff” Young,0.0011,0
+2022,House,LA,1,False,Kate Darling,0.0,0
+2022,House,LA,2,False,Troy A. Carter,1.0,1
+2022,House,MA,1,False,Richard E. Neal,0.999175,1
+2022,House,MA,2,False,James P. McGovern,0.999175,1
+2022,House,MA,3,False,Lori Loureiro Trahan,0.99945,1
+2022,House,MA,5,False,Katherine M. Clark,1.0,1
+2022,House,MA,6,False,Seth Moulton,0.999225,1
+2022,House,MA,7,False,Ayanna S. Pressley,1.0,1
+2022,House,MA,8,False,Stephen F. Lynch,0.999925,1
+2022,House,MA,9,False,Bill Keating,0.987175,1
+2022,House,MD,1,False,Heather R. Mizeur,0.020025,0
+2022,House,MD,2,False,C.A. Dutch Ruppersberger,0.980225,1
+2022,House,MD,3,False,John Sarbanes,0.9378,1
+2022,House,MD,4,False,Glenn F. Ivey,1.0,1
+2022,House,MD,5,False,Steny Hoyer,0.99965,1
+2022,House,MD,6,False,David J. Trone,0.47855,1
+2022,House,MD,7,False,Kweisi Mfume,1.0,1
+2022,House,MD,8,False,Jamie Raskin,0.999975,1
+2022,House,ME,1,False,Chellie M. Pingree,0.9949,1
+2022,House,ME,2,False,Jared Forrest Golden,0.535675,1
+2022,House,MI,1,False,Bob Lorinser,0.001175,0
+2022,House,MI,2,False,Jerry Hilliard,0.0,0
+2022,House,MI,3,False,Hillary Scholten,0.7255,1
+2022,House,MI,4,False,Joseph Alfonso,0.010275,0
+2022,House,MI,5,False,Bart Goldberg,0.000125,0
+2022,House,MI,6,False,Debbie Dingell,0.999075,1
+2022,House,MI,7,False,Elissa Slotkin,0.611175,1
+2022,House,MI,8,False,Daniel T. Kildee,0.710325,1
+2022,House,MI,9,False,Brian Jaye,2.5e-05,0
+2022,House,MI,10,False,Carl J. Marlinga,0.156775,0
+2022,House,MI,11,False,Haley Stevens,0.9555,1
+2022,House,MI,12,False,Rashida Tlaib,1.0,1
+2022,House,MI,13,False,Shri Thanedar,1.0,1
+2022,House,MN,1,False,Jeff Ettinger,0.040425,0
+2022,House,MN,2,False,Angie Craig,0.707375,1
+2022,House,MN,3,False,Dean Phillips,0.993475,1
+2022,House,MN,4,False,Betty McCollum,0.9998,1
+2022,House,MN,5,False,Ilhan Omar,0.999975,1
+2022,House,MN,6,False,Jeanne Hendricks,0.000375,0
+2022,House,MN,7,False,Jill Abahsain,2.5e-05,0
+2022,House,MN,8,False,Jen Schultz,0.003425,0
+2022,House,MO,1,False,Cori Bush,1.0,1
+2022,House,MO,2,False,Trish Gunby,0.022775,0
+2022,House,MO,3,False,Bethany Mann,2.5e-05,0
+2022,House,MO,4,False,Jack Truman,0.0,0
+2022,House,MO,5,False,"Emanuel Cleaver, II",0.99635,1
+2022,House,MO,6,False,Henry Martin,2.5e-05,0
+2022,House,MO,7,False,Kristen Radaker-Sheafer,0.0,0
+2022,House,MO,8,False,Randi McCallian,0.0,0
+2022,House,MS,1,False,Dianne Black,0.0,0
+2022,House,MS,2,False,Bennie G. Thompson,0.997675,1
+2022,House,MS,3,False,Shuwaski A. Young,2.5e-05,0
+2022,House,MS,4,False,Johnny L. DuPree,0.0,0
+2022,House,MT,1,False,Monica Tranel,0.105275,0
+2022,House,MT,2,False,Penny Ronning,0.000525,0
+2022,House,NC,1,False,Don Davis,0.9464,1
+2022,House,NC,2,False,Deborah K. Ross,0.998375,1
+2022,House,NC,3,False,Barbara D. Gaskins,0.0001,0
+2022,House,NC,4,False,Valerie P. Foushee,0.999675,1
+2022,House,NC,5,False,Kyle Parrish,0.0002,0
+2022,House,NC,6,False,Kathy Manning,0.970075,1
+2022,House,NC,7,False,Charles Graham,0.0032,0
+2022,House,NC,8,False,Scott Huffman,2.5e-05,0
+2022,House,NC,9,False,Ben Clark,0.012675,0
+2022,House,NC,10,False,Pam Genant,2.5e-05,0
+2022,House,NC,11,False,Jasmine Beach-Ferrara,0.01635,0
+2022,House,NC,12,False,Alma S. Adams,0.999625,1
+2022,House,NC,13,False,Wiley Nickel,0.429525,1
+2022,House,NC,14,False,Jeff Jackson,0.963075,1
+2022,House,NE,1,False,Patty Pansing Brooks,0.00265,0
+2022,House,NE,2,False,Tony Vargas,0.133625,0
+2022,House,NE,3,False,David J. Else,0.0,0
+2022,House,NH,1,False,Chris Pappas,0.508625,1
+2022,House,NH,2,False,Ann McLane Kuster,0.881875,1
+2022,House,NJ,1,False,Donald W. Norcross,0.99225,1
+2022,House,NJ,2,False,Tim Alexander,0.0086,0
+2022,House,NJ,3,False,Andy Kim,0.724575,1
+2022,House,NJ,4,False,Matthew Jenkins,7.5e-05,0
+2022,House,NJ,5,False,Josh Gottheimer,0.876,1
+2022,House,NJ,6,False,Frank Pallone Jr.,0.929325,1
+2022,House,NJ,7,False,Tom Malinowski,0.199,0
+2022,House,NJ,8,False,Robert J. Menendez,1.0,1
+2022,House,NJ,9,False,Bill Pascrell Jr.,0.994675,1
+2022,House,NJ,10,False,Donald M. Payne Jr.,1.0,1
+2022,House,NJ,11,False,Mikie Sherrill,0.933825,1
+2022,House,NJ,12,False,Bonnie Watson Coleman,0.9993,1
+2022,House,NM,1,False,Melanie Ann Stansbury,0.958775,1
+2022,House,NM,2,False,Gabriel Vasquez,0.391675,1
+2022,House,NM,3,False,Teresa Leger Fernandez,0.992025,1
+2022,House,NV,1,False,Dina Titus,0.337375,1
+2022,House,NV,2,False,Elizabeth Mercedes Krause,0.0002,0
+2022,House,NV,3,False,Susie Lee,0.56365,1
+2022,House,NV,4,False,Steven A. Horsford,0.720825,1
+2022,House,NY,1,False,Bridget Fleming,0.414925,0
+2022,House,NY,2,False,Jackie Gordon,0.081725,0
+2022,House,NY,3,False,Robert P. Zimmerman,0.66285,0
+2022,House,NY,4,False,Laura A. Gillen,0.7111,1
+2022,House,NY,5,False,Gregory Meeks,1.0,1
+2022,House,NY,6,False,Grace Meng,0.99975,1
+2022,House,NY,7,False,Nydia M. Velázquez,1.0,1
+2022,House,NY,8,False,Hakeem S. Jeffries,1.0,1
+2022,House,NY,10,False,Daniel Goldman,1.0,1
+2022,House,NY,11,False,Max N. Rose,0.057475,0
+2022,House,NY,12,False,Jerrold L. Nadler,1.0,1
+2022,House,NY,14,False,Alexandria Ocasio-Cortez,0.999975,1
+2022,House,NY,15,False,Ritchie J. Torres,1.0,1
+2022,House,NY,16,False,Jamaal Bowman,1.0,1
+2022,House,NY,17,False,Sean Patrick Maloney,0.561675,1
+2022,House,NY,18,False,Pat Ryan,0.555525,1
+2022,House,NY,19,False,Josh Riley,0.516875,0
+2022,House,NY,20,False,Paul D. Tonko,0.966675,1
+2022,House,NY,21,False,Matt Castelli,0.00475,0
+2022,House,NY,22,False,Francis Conole,0.62255,1
+2022,House,NY,23,False,Max H. Della Pia,0.00165,0
+2022,House,NY,24,False,Steven Holden,0.004625,0
+2022,House,NY,25,False,Joseph D. Morelle,0.9329,1
+2022,House,NY,26,False,Brian Higgins,0.9984,1
+2022,House,OH,1,False,Greg Landsman,0.294625,1
+2022,House,OH,2,False,Samantha Meadows,0.0,0
+2022,House,OH,3,False,Joyce Beatty,0.999975,1
+2022,House,OH,4,False,Tamie Wilson,2.5e-05,0
+2022,House,OH,5,False,Craig Swartz,2.5e-05,0
+2022,House,OH,6,False,Louis G. Lyras,0.0,0
+2022,House,OH,7,False,Matthew Diemer,0.046575,0
+2022,House,OH,8,False,Vanessa Enoch,5e-05,0
+2022,House,OH,9,False,Marcy Kaptur,0.6365,1
+2022,House,OH,10,False,David Esrati,0.00385,0
+2022,House,OH,11,False,Shontel Brown,1.0,1
+2022,House,OH,12,False,Amy Rippel-Elton,0.0001,0
+2022,House,OH,13,False,Emilia Sykes,0.348225,1
+2022,House,OH,14,False,Matt Kilboy,0.000625,0
+2022,House,OH,15,False,Gary Josephson,0.0026,0
+2022,House,OK,1,False,Adam Martin,0.00015,0
+2022,House,OK,2,False,Naomi Andrews,0.0,0
+2022,House,OK,3,False,Jeremiah A. Ross,0.0,0
+2022,House,OK,4,False,Mary Brannon,0.0,0
+2022,House,OK,5,False,Joshua Harris-Till,0.0004,0
+2022,House,OR,1,False,Suzanne Bonamici,0.9999,1
+2022,House,OR,2,False,Joe Yetter,7.5e-05,0
+2022,House,OR,3,False,Earl Blumenauer,0.999975,1
+2022,House,OR,4,False,Val Hoyle,0.800375,1
+2022,House,OR,5,False,Jamie McLeod-Skinner,0.387025,0
+2022,House,OR,6,False,Andrea Salinas,0.5982,1
+2022,House,PA,1,False,Ashley Ehasz,0.0162,0
+2022,House,PA,2,False,Brendan F. Boyle,0.999975,1
+2022,House,PA,4,False,Madeleine Dean,0.972525,1
+2022,House,PA,5,False,Mary Gay Scanlon,0.99925,1
+2022,House,PA,6,False,Chrissy Houlahan,0.902675,1
+2022,House,PA,7,False,Susan Wild,0.333825,1
+2022,House,PA,8,False,Matt Cartwright,0.5348,1
+2022,House,PA,9,False,Amanda R. Waldman,0.0,0
+2022,House,PA,10,False,Shamaine Daniels,0.124,0
+2022,House,PA,11,False,Bob Hollister,0.00035,0
+2022,House,PA,12,False,Summer Lee,0.9686,1
+2022,House,PA,15,False,Michael Molesevich,0.0,0
+2022,House,PA,16,False,Dan Pastore,0.000525,0
+2022,House,PA,17,False,Chris Deluzio,0.46425,1
+2022,House,RI,1,False,David N. Cicilline,0.999925,1
+2022,House,RI,2,False,Seth M. Magaziner,0.480925,1
+2022,House,SC,1,False,Annie Andrews,0.007275,0
+2022,House,SC,2,False,Judd Larkins,0.00165,0
+2022,House,SC,5,False,Evangeline Hundley,0.000125,0
+2022,House,SC,6,False,James E. “Jim” Clyburn,0.999,1
+2022,House,SC,7,False,Daryl W. Scott,0.00025,0
+2022,House,TN,1,False,Cameron Parsons,0.0,0
+2022,House,TN,2,False,Mark Harmon,0.0,0
+2022,House,TN,3,False,Meg Gorman,0.0,0
+2022,House,TN,4,False,Wayne Steele,0.0,0
+2022,House,TN,5,False,Heidi Campbell,0.0555,0
+2022,House,TN,6,False,Randal Cooper,0.0,0
+2022,House,TN,7,False,Odessa Kelly,0.00045,0
+2022,House,TN,8,False,Lynnette P. Williams,0.0,0
+2022,House,TN,9,False,Steve Cohen,0.999975,1
+2022,House,TX,1,False,Jrmar “JJ” Jefferson,2.5e-05,0
+2022,House,TX,2,False,Robin Fulford,0.000125,0
+2022,House,TX,3,False,Sandeep Srivastava,0.001475,0
+2022,House,TX,4,False,Iro Omere,7.5e-05,0
+2022,House,TX,5,False,Tartisha Hill,0.000225,0
+2022,House,TX,7,False,Lizzie Fletcher,0.986375,1
+2022,House,TX,8,False,Laura Jones,0.000325,0
+2022,House,TX,9,False,Al Green,1.0,1
+2022,House,TX,10,False,Linda Nuno,0.000725,0
+2022,House,TX,12,False,Trey J. Hunt,0.0001,0
+2022,House,TX,13,False,Kathleen Brown,2.5e-05,0
+2022,House,TX,14,False,Mikal Williams,0.0,0
+2022,House,TX,15,False,Michelle Vallejo,0.61595,0
+2022,House,TX,16,False,Veronica Escobar,0.999475,1
+2022,House,TX,17,False,Mary Jo Woods,0.000175,0
+2022,House,TX,18,False,Sheila Jackson Lee,0.99995,1
+2022,House,TX,20,False,Joaquin Castro,0.9985,1
+2022,House,TX,21,False,Claudia Andreana Zapata,0.00105,0
+2022,House,TX,22,False,Jamie Kaye Jordan,0.00045,0
+2022,House,TX,23,False,John Lira,0.008325,0
+2022,House,TX,24,False,Jan McDowell,0.001725,0
+2022,House,TX,27,False,Maclovio Perez Jr.,2.5e-05,0
+2022,House,TX,28,False,Henry Cuellar,0.693375,1
+2022,House,TX,29,False,Sylvia Garcia,0.9999,1
+2022,House,TX,30,False,Jasmine Crockett,1.0,1
+2022,House,TX,32,False,Colin Allred,0.9955,1
+2022,House,TX,33,False,Marc Veasey,1.0,1
+2022,House,TX,34,False,Vicente Gonzalez,0.565975,1
+2022,House,TX,35,False,Greg Casar,1.0,1
+2022,House,TX,36,False,Jon Haire,2.5e-05,0
+2022,House,TX,37,False,Lloyd Doggett,1.0,1
+2022,House,TX,38,False,Duncan F. Klussmann,0.00055,0
+2022,House,UT,1,False,Rick Edwin Jones,0.0,0
+2022,House,UT,2,False,Nick Mitchell,0.00105,0
+2022,House,UT,3,False,Glenn J. Wright,0.000275,0
+2022,House,UT,4,False,Darlene McDonald,0.000475,0
+2022,House,VA,1,False,Herbert C. “Herb” Jones Jr.,0.003325,0
+2022,House,VA,2,False,Elaine G. Luria,0.389275,0
+2022,House,VA,3,False,Robert C. “Bobby” Scott,0.999775,1
+2022,House,VA,4,False,A. Donald McEachin,0.999575,1
+2022,House,VA,5,False,Joshua M. Throneburg,0.009525,0
+2022,House,VA,6,False,Jennifer Lynn Lewis,0.00015,0
+2022,House,VA,7,False,Abigail A. Spanberger,0.565575,1
+2022,House,VA,8,False,Donald S. Beyer Jr.,1.0,1
+2022,House,VA,9,False,Taysha Lee DeVaughan,0.0,0
+2022,House,VA,10,False,Jennifer T. Wexton,0.87385,1
+2022,House,VA,11,False,Gerald E. “Gerry” Connolly,0.9999,1
+2022,House,VT,1,False,Becca Balint,0.999875,1
+2022,House,WA,1,False,Suzan DelBene,0.996075,1
+2022,House,WA,2,False,Rick Larsen,0.998725,1
+2022,House,WA,3,False,Marie Gluesenkamp Perez,0.040425,1
+2022,House,WA,4,False,Doug White,0.00015,0
+2022,House,WA,5,False,Natasha Hill,0.008225,0
+2022,House,WA,6,False,Derek Kilmer,0.983,1
+2022,House,WA,7,False,Pramila Jayapal,1.0,1
+2022,House,WA,8,False,Kim Schrier,0.7129,1
+2022,House,WA,9,False,Adam Smith,0.99995,1
+2022,House,WA,10,False,Marilyn Strickland,0.99305,1
+2022,House,WI,1,False,Ann Roe,0.011375,0
+2022,House,WI,2,False,Mark Pocan,0.999925,1
+2022,House,WI,3,False,Brad Pfaff,0.110125,0
+2022,House,WI,4,False,Gwen Moore,0.999975,1
+2022,House,WI,5,False,Mike Van Someren,0.0001,0
+2022,House,WI,7,False,Richard Dick Ausman,0.00035,0
+2022,House,WV,1,False,Lacy Watson,0.0,0
+2022,House,WV,2,False,Barry Lee Wendell,0.00015,0
+2022,House,WY,1,False,Lynnette GreyBull,0.0,0
+2022,Senate,AK,0,False,Patricia R. Chesbro,0.0041,0
+2022,Senate,AL,0,False,Will Boyd,5e-05,0
+2022,Senate,AR,0,False,Natalie James,0.000275,0
+2022,Senate,AZ,0,False,Mark Kelly,0.654625,1
+2022,Senate,CA,0,False,Alex Padilla,0.9989,1
+2022,Senate,CO,0,False,Michael Bennet,0.89695,1
+2022,Senate,CT,0,False,Richard Blumenthal,0.9862,1
+2022,Senate,FL,0,False,Val Demings,0.087425,0
+2022,Senate,GA,0,False,Raphael Warnock,0.461925,1
+2022,Senate,HI,0,False,Brian Schatz,0.99965,1
+2022,Senate,IA,0,False,Michael Franken,0.0366,0
+2022,Senate,ID,0,False,David Roth,0.000125,0
+2022,Senate,IL,0,False,Tammy Duckworth,0.992075,1
+2022,Senate,IN,0,False,Thomas McDermott,0.0429,0
+2022,Senate,KS,0,False,Mark R. Holland,0.001275,0
+2022,Senate,KY,0,False,Charles Booker,0.00105,0
+2022,Senate,MD,0,False,Chris Van Hollen,0.999675,1
+2022,Senate,MO,0,False,Trudy Busch Valentine,0.031275,0
+2022,Senate,NC,0,False,Cheri Beasley,0.254325,0
+2022,Senate,ND,0,False,Katrina Christiansen,0.0,0
+2022,Senate,NH,0,False,Maggie Hassan,0.692275,1
+2022,Senate,NV,0,False,Catherine Cortez Masto,0.458575,1
+2022,Senate,NY,0,False,Charles E. Schumer,0.995475,1
+2022,Senate,OH,0,False,Tim Ryan,0.173925,0
+2022,Senate,OK,0,False,Madison Horn,0.001025,0
+2022,Senate,OK,0,True,Kendra Horn,0.004675,0
+2022,Senate,OR,0,False,Ron Wyden,0.99485,1
+2022,Senate,PA,0,False,John Fetterman,0.534475,1
+2022,Senate,SC,0,False,Krystle Matthews,0.0008,0
+2022,Senate,SD,0,False,Brian L. Bengs,0.00035,0
+2022,Senate,VT,0,False,Peter Welch,0.999775,1
+2022,Senate,WA,0,False,Patty Murray,0.8824,1
+2022,Senate,WI,0,False,Mandela Barnes,0.26235,0
+2022,Governor,AK,0,False,Les Gara,0.05375,0
+2022,Governor,AL,0,False,Yolanda Rochelle Flowers,7.5e-05,0
+2022,Governor,AR,0,False,Chris Jones,0.0032,0
+2022,Governor,AZ,0,False,Katie Hobbs,0.362275,1
+2022,Governor,CA,0,False,Gavin Newsom,0.999025,1
+2022,Governor,CO,0,False,Jared Polis,0.9871,1
+2022,Governor,CT,0,False,Edward Lamont,0.98495,1
+2022,Governor,FL,0,False,Charlie Crist,0.018625,0
+2022,Governor,GA,0,False,Stacey Abrams,0.07475,0
+2022,Governor,HI,0,False,Josh Green,0.996975,1
+2022,Governor,IA,0,False,Deidre DeJear,0.00825,0
+2022,Governor,ID,0,False,Stephen Heidt,0.0002,0
+2022,Governor,IL,0,False,J.B. Pritzker,0.99415,1
+2022,Governor,KS,0,False,Laura Kelly,0.772075,1
+2022,Governor,MA,0,False,Maura Healey,0.9997,1
+2022,Governor,MD,0,False,Wes Moore,0.9986,1
+2022,Governor,ME,0,False,Janet T. Mills,0.89905,1
+2022,Governor,MI,0,False,Gretchen Whitmer,0.85265,1
+2022,Governor,MN,0,False,Tim Walz,0.92705,1
+2022,Governor,NE,0,False,Carol Blood,0.04495,0
+2022,Governor,NH,0,False,Tom Sherman,0.017175,0
+2022,Governor,NM,0,False,Michelle Lujan Grisham,0.845425,1
+2022,Governor,NV,0,False,Steve Sisolak,0.445075,0
+2022,Governor,NY,0,False,Kathy C. Hochul,0.927175,1
+2022,Governor,OH,0,False,Nan Whaley,0.0008,0
+2022,Governor,OK,0,False,Joy Hofmeister,0.13285,0
+2022,Governor,OR,0,False,Tina Kotek,0.651075,1
+2022,Governor,PA,0,False,Josh Shapiro,0.972325,1
+2022,Governor,RI,0,False,Daniel J. McKee,0.972825,1
+2022,Governor,SC,0,False,Joe Cunningham,0.044675,0
+2022,Governor,SD,0,False,Jamie Smith,0.0047,0
+2022,Governor,TN,0,False,Jason Brantley Martin,0.0008,0
+2022,Governor,TX,0,False,Beto O'Rourke,0.055775,0
+2022,Governor,VT,0,False,Brenda Siegel,0.002575,0
+2022,Governor,WI,0,False,Tony Evers,0.5692,1
+2022,Governor,WY,0,False,Theresa A. Livingston,0.0,0
